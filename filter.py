@@ -78,11 +78,12 @@ def main() -> None:
             return
         raise
     body, count = build(text)
-    old = OUT.read_text(encoding="utf-8", newline="") if OUT.exists() else ""
+    old = OUT.open(encoding="utf-8", newline="").read() if OUT.exists() else ""
     if strip_stamps(old) == strip_stamps(body):
         print(f"No change ({count} events).")
         return
-    OUT.write_text(body, encoding="utf-8", newline="")
+    with OUT.open("w", encoding="utf-8", newline="") as f:
+        f.write(body)
     print(f"Updated: {count} events.")
 
 
