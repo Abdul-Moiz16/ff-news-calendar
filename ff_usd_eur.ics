@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+PRODID:-//ff-news-calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:FF News USD+EUR
+X-WR-CALDESC:Forex Factory medium + high impact USD and EUR events
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:155893
+DTSTAMP:20261119T094218Z
+SUMMARY:⁂ US Fed Chairman Warsh Speaks
+DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
+ ar/129-us-fed-chairman-warsh-speaks
+URL:https://www.forexfactory.com/calendar/129-us-fed-chairman-warsh-speaks
+DTSTART;TZID=America/New_York:20261116T120000
+DTEND;TZID=America/New_York:20261116T120000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148047
+DTSTAMP:20261119T094218Z
+SUMMARY:⁂ US Core Retail Sales m/m
+DESCRIPTION:Impact: High\n\nForecast: 0.4%\n\nPrevious: 0.9%\n\nView Event:
+  https://www.forexfactory.com/calendar/112-us-core-retail-sales-mm
+URL:https://www.forexfactory.com/calendar/112-us-core-retail-sales-mm
+DTSTART;TZID=America/New_York:20261117T083000
+DTEND;TZID=America/New_York:20261117T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148035
+DTSTAMP:20261119T094218Z
+SUMMARY:⁂ US Retail Sales m/m
+DESCRIPTION:Impact: High\n\nForecast: 0.1%\n\nPrevious: 0.8%\n\nView Event:
+  https://www.forexfactory.com/calendar/102-us-retail-sales-mm
+URL:https://www.forexfactory.com/calendar/102-us-retail-sales-mm
+DTSTART;TZID=America/New_York:20261117T083000
+DTEND;TZID=America/New_York:20261117T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:150562
+DTSTAMP:20261119T094218Z
+SUMMARY:⁑ EZ ECB Financial Stability Review
+DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
+ ndar/616-ez-ecb-financial-stability-review
+URL:https://www.forexfactory.com/calendar/616-ez-ecb-financial-stability-re
+ view
+DTSTART;TZID=America/New_York:20261118T040000
+DTEND;TZID=America/New_York:20261118T040000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:155919
+DTSTAMP:20261119T094218Z
+SUMMARY:⁑ EZ ECB President Lagarde Speaks
+DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
+ ndar/832-ez-ecb-president-lagarde-speaks
+URL:https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-spea
+ ks
+DTSTART;TZID=America/New_York:20261118T092500
+DTEND;TZID=America/New_York:20261118T092500
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:146529
+DTSTAMP:20261119T094218Z
+SUMMARY:⁂ US FOMC Meeting Minutes
+DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
+ ar/304-us-fomc-meeting-minutes
+URL:https://www.forexfactory.com/calendar/304-us-fomc-meeting-minutes
+DTSTART;TZID=America/New_York:20261118T140000
+DTEND;TZID=America/New_York:20261118T140000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:155902
+DTSTAMP:20261119T094218Z
+SUMMARY:⁑ EZ ECB President Lagarde Speaks
+DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
+ ndar/832-ez-ecb-president-lagarde-speaks
+URL:https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-spea
+ ks
+DTSTART;TZID=America/New_York:20261119T083000
+DTEND;TZID=America/New_York:20261119T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:146965
+DTSTAMP:20261119T094218Z
+SUMMARY:⁑ US Philly Fed Manufacturing Index
+DESCRIPTION:Impact: Medium\n\nForecast: 20.6\n\nPrevious: 20.9\n\nView Even
+ t: https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-i
+ ndex
+URL:https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-i
+ ndex
+DTSTART;TZID=America/New_York:20261119T083000
+DTEND;TZID=America/New_York:20261119T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:147024
+DTSTAMP:20261119T094218Z
+SUMMARY:⁑ US Unemployment Claims
+DESCRIPTION:Impact: Medium\n\nForecast: 198K\n\nPrevious: 200K\n\nView Even
+ t: https://www.forexfactory.com/calendar/11-us-unemployment-claims
+URL:https://www.forexfactory.com/calendar/11-us-unemployment-claims
+DTSTART;TZID=America/New_York:20261119T083000
+DTEND;TZID=America/New_York:20261119T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:155906
+DTSTAMP:20261119T094218Z
+SUMMARY:⁑ EZ ECB President Lagarde Speaks
+DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
+ ndar/832-ez-ecb-president-lagarde-speaks
+URL:https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-spea
+ ks
+DTSTART;TZID=America/New_York:20261120T031500
+DTEND;TZID=America/New_York:20261120T031500
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148604
+DTSTAMP:20261119T094218Z
+SUMMARY:⁑ US Revised UoM Consumer Sentiment
+DESCRIPTION:Impact: Medium\n\nForecast: 51.7\n\nPrevious: 51.0\n\nView Even
+ t: https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentim
+ ent
+URL:https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentim
+ ent
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T100000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148616
+DTSTAMP:20261119T094218Z
+SUMMARY:⁑ US Revised UoM Inflation Expectations
+DESCRIPTION:Impact: Medium\n\nPrevious: 4.3%\n\nView Event: https://www.for
+ exfactory.com/calendar/238-us-revised-uom-inflation-expectations
+URL:https://www.forexfactory.com/calendar/238-us-revised-uom-inflation-expe
+ ctations
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T100000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
