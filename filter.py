@@ -1,7 +1,11 @@
 """Filter the Forex Factory weekly calendar to USD + EUR, medium + high impact.
 
-Writes ff_usd_eur.ics, which Apple Calendar subscribes to via GitHub Pages.
-The file is only rewritten when the events actually change.
+Apple Calendar colors whole calendars, not single events, so red and orange
+news go into separate feeds:
+  ff_usd_eur_high.ics    red (high impact)
+  ff_usd_eur_medium.ics  orange (medium impact)
+  ff_usd_eur.ics         both, in one calendar
+Each file is only rewritten when its events actually change.
 """
 
 import re
@@ -11,10 +15,17 @@ import urllib.request
 from pathlib import Path
 
 SOURCE = "https://nfs.faireconomy.media/ff_calendar_thisweek.ics"
-OUT = Path(__file__).parent / "ff_usd_eur.ics"
+DIR = Path(__file__).parent
 
 KEEP = {"US", "EZ", "GE", "FR", "IT", "ES"}  # USD + EUR
-IMPACTS = {"⁑", "⁂"}  # medium (orange), high (red)
+HIGH, MEDIUM = "⁂", "⁑"  # Forex Factory impact markers
+
+# file name -> (impacts, calendar name, Apple calendar color)
+FEEDS = {
+    "ff_usd_eur_high.ics": ({HIGH}, "FF High Impact", "#E5262C"),
+    "ff_usd_eur_medium.ics": ({MEDIUM}, "FF Medium Impact", "#FF9500"),
+    "ff_usd_eur.ics": ({HIGH, MEDIUM}, "FF News USD+EUR", "#E5262C"),
+}
 
 # Forex Factory uses TZID=America/New_York but ships no VTIMEZONE block.
 VTIMEZONE = """BEGIN:VTIMEZONE
@@ -36,12 +47,16 @@ END:STANDARD
 END:VTIMEZONE
 """
 
-HEADER = f"""BEGIN:VCALENDAR
+
+def header(name: str, color: str) -> str:
+    return f"""BEGIN:VCALENDAR
 PRODID:-//ff-news-calendar//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-X-WR-CALNAME:FF News USD+EUR
-X-WR-CALDESC:Forex Factory medium + high impact USD and EUR events
+X-WR-CALNAME:{name}
+X-WR-CALDESC:Forex Factory USD and EUR events
+X-APPLE-CALENDAR-COLOR:{color}
+COLOR:{color}
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 {VTIMEZONE}"""
@@ -53,16 +68,16 @@ def fetch() -> str:
         return res.read().decode("utf-8").replace("\r\n", "\n")
 
 
-def build(text: str) -> tuple[str, int]:
-    kept = []
+def parse(text: str) -> list[tuple[str, str]]:
+    """Return (impact marker, event block) for every USD/EUR event."""
+    if "BEGIN:VCALENDAR" not in text:
+        sys.exit("Upstream did not return a calendar; keeping the old files.")
+    events = []
     for block in re.findall(r"BEGIN:VEVENT\n.*?END:VEVENT\n", text, re.S):
         m = re.search(r"^SUMMARY:(\S+)\s+([A-Z]{2})\s", block.replace("\n ", ""), re.M)
-        if m and m[1] in IMPACTS and m[2] in KEEP:
-            kept.append(block)
-    if "BEGIN:VCALENDAR" not in text:
-        sys.exit("Upstream did not return a calendar; keeping the old file.")
-    body = HEADER + "".join(kept) + "END:VCALENDAR\n"
-    return body.replace("\n", "\r\n"), len(kept)
+        if m and m[2] in KEEP:
+            events.append((m[1], block))
+    return events
 
 
 def strip_stamps(s: str) -> str:
@@ -74,17 +89,21 @@ def main() -> None:
         text = fetch()
     except urllib.error.HTTPError as e:
         if e.code == 429:  # rate limited; try again next run
-            print("Rate limited by upstream; keeping the old file.")
+            print("Rate limited by upstream; keeping the old files.")
             return
         raise
-    body, count = build(text)
-    old = OUT.open(encoding="utf-8", newline="").read() if OUT.exists() else ""
-    if strip_stamps(old) == strip_stamps(body):
-        print(f"No change ({count} events).")
-        return
-    with OUT.open("w", encoding="utf-8", newline="") as f:
-        f.write(body)
-    print(f"Updated: {count} events.")
+    events = parse(text)
+    for name, (impacts, calname, color) in FEEDS.items():
+        kept = [block for impact, block in events if impact in impacts]
+        body = (header(calname, color) + "".join(kept) + "END:VCALENDAR\n").replace("\n", "\r\n")
+        out = DIR / name
+        old = out.open(encoding="utf-8", newline="").read() if out.exists() else ""
+        if strip_stamps(old) == strip_stamps(body):
+            print(f"{name}: no change ({len(kept)} events).")
+            continue
+        with out.open("w", encoding="utf-8", newline="") as f:
+            f.write(body)
+        print(f"{name}: updated, {len(kept)} events.")
 
 
 if __name__ == "__main__":
