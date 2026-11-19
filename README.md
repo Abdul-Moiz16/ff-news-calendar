@@ -1,8 +1,13 @@
 # ff-news-calendar
 
 Forex Factory's weekly calendar, filtered to **medium + high impact USD** events.
-Each event's description includes forecast, previous, and a rule-of-thumb XAUUSD reading.
-A GitHub Action refreshes it every hour.
+Each event's description includes forecast and previous. Once the number is out, it adds the
+actual (from [biquote](https://biquote.io)) and whether it reads bullish or bearish for XAUUSD;
+the event title gets a "| gold bullish / gold bearish / in line" tag.
+A GitHub Action refreshes it every 5 minutes.
+
+The gold reading is a rule of thumb (better-than-expected US data -> stronger USD -> gold down),
+not a prediction. Market data by [biquote](https://biquote.io).
 
 Subscribe in Apple Calendar (File → New Calendar Subscription), one calendar per color:
 
