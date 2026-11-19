@@ -1,10 +1,11 @@
-"""Filter the Forex Factory weekly calendar to USD + EUR, medium + high impact.
+"""Filter the Forex Factory weekly calendar to USD, medium + high impact.
 
 Apple Calendar colors whole calendars, not single events, so red and orange
 news go into separate feeds:
-  ff_usd_eur_high.ics    red (high impact)
-  ff_usd_eur_medium.ics  orange (medium impact)
-  ff_usd_eur.ics         both, in one calendar
+  ff_usd_high.ics    red (high impact)
+  ff_usd_medium.ics  orange (medium impact)
+  ff_usd_eur.ics     both, in one calendar (old link, kept so it keeps working)
+Each event's description gets a rule-of-thumb note on what it means for gold.
 Each file is only rewritten when its events actually change.
 """
 
@@ -17,15 +18,18 @@ from pathlib import Path
 SOURCE = "https://nfs.faireconomy.media/ff_calendar_thisweek.ics"
 DIR = Path(__file__).parent
 
-KEEP = {"US", "EZ", "GE", "FR", "IT", "ES"}  # USD + EUR
+KEEP = {"US"}  # USD only
 HIGH, MEDIUM = "⁂", "⁑"  # Forex Factory impact markers
 
 # file name -> (impacts, calendar name, Apple calendar color)
 FEEDS = {
-    "ff_usd_eur_high.ics": ({HIGH}, "FF High Impact", "#E5262C"),
-    "ff_usd_eur_medium.ics": ({MEDIUM}, "FF Medium Impact", "#FF9500"),
-    "ff_usd_eur.ics": ({HIGH, MEDIUM}, "FF News USD+EUR", "#E5262C"),
+    "ff_usd_high.ics": ({HIGH}, "FF USD High Impact", "#E5262C"),
+    "ff_usd_medium.ics": ({MEDIUM}, "FF USD Medium Impact", "#FF9500"),
+    "ff_usd_eur.ics": ({HIGH, MEDIUM}, "FF News USD", "#E5262C"),
 }
+
+# Releases where a LOWER number is good for USD (so the gold reading flips).
+LOWER_IS_BETTER = ("unemployment claims", "unemployment rate", "jobless", "continuing claims")
 
 # Forex Factory uses TZID=America/New_York but ships no VTIMEZONE block.
 VTIMEZONE = """BEGIN:VTIMEZONE
@@ -54,7 +58,7 @@ PRODID:-//ff-news-calendar//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 X-WR-CALNAME:{name}
-X-WR-CALDESC:Forex Factory USD and EUR events
+X-WR-CALDESC:Forex Factory USD events
 X-APPLE-CALENDAR-COLOR:{color}
 COLOR:{color}
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
@@ -68,15 +72,52 @@ def fetch() -> str:
         return res.read().decode("utf-8").replace("\r\n", "\n")
 
 
+def gold_note(title: str, desc: str) -> str:
+    """Rule-of-thumb XAUUSD reading for a USD release (not a prediction)."""
+    ref = "forecast" if "Forecast:" in desc else "previous" if "Previous:" in desc else None
+    if ref is None:
+        return ("XAUUSD: no number to compare. Hawkish tone (rates higher for longer) "
+                "-> USD up, gold bearish. Dovish tone -> gold bullish.")
+    good, bad = ("BELOW", "ABOVE") if any(k in title.lower() for k in LOWER_IS_BETTER) else ("ABOVE", "BELOW")
+    return (f"XAUUSD: actual {good} {ref} -> USD stronger, gold bearish. "
+            f"Actual {bad} {ref} -> USD weaker, gold bullish.")
+
+
+def fold(line: str) -> str:
+    """Fold an iCalendar content line to 75 octets."""
+    out, cur = [], b""
+    for ch in line:
+        b = ch.encode("utf-8")
+        if len(cur) + len(b) > (75 if not out else 74):
+            out.append(cur.decode("utf-8"))
+            cur = b""
+        cur += b
+    out.append(cur.decode("utf-8"))
+    return "\n ".join(out) + "\n"
+
+
+def annotate(block: str) -> str:
+    """Add the gold note to the event's DESCRIPTION."""
+    lines = block.replace("\n ", "").splitlines()
+    title = next(l for l in lines if l.startswith("SUMMARY:"))
+    body = []
+    for l in lines:
+        if l.startswith("DESCRIPTION:"):
+            note = gold_note(title, l)
+            l = l.replace("\\n\\nView Event:", f"\\n\\n{note}\\n\\nView Event:", 1)
+        body.append(fold(l))
+    return "".join(body)
+
+
 def parse(text: str) -> list[tuple[str, str]]:
-    """Return (impact marker, event block) for every USD/EUR event."""
+    """Return (impact marker, annotated event block) for every USD event."""
     if "BEGIN:VCALENDAR" not in text:
         sys.exit("Upstream did not return a calendar; keeping the old files.")
     events = []
     for block in re.findall(r"BEGIN:VEVENT\n.*?END:VEVENT\n", text, re.S):
         m = re.search(r"^SUMMARY:(\S+)\s+([A-Z]{2})\s", block.replace("\n ", ""), re.M)
         if m and m[2] in KEEP:
-            events.append((m[1], block))
+            events.append((m[1], annotate(block)))
     return events
 
 
