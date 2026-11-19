@@ -27,12 +27,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:146965
-DTSTAMP:20261119T104218Z
-SUMMARY:⁑ US Philly Fed Manufacturing Index
-DESCRIPTION:Impact: Medium\n\nForecast: 20.6\n\nPrevious: 20.9\n\nXAUUSD: a
- ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
- -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
- alendar/325-us-philly-fed-manufacturing-index
+DTSTAMP:20261119T144218Z
+SUMMARY:⁑ US Philly Fed Manufacturing Index | gold bullish
+DESCRIPTION:Impact: Medium\n\nActual: 6.3\n\nForecast: 20.6\n\nPrevious: 20
+ .9\n\nRESULT: actual 6.3 below forecast 20.6 -> bad for USD -> XAUUSD BULL
+ ISH.\n\nView Event: https://www.forexfactory.com/calendar/325-us-philly-fe
+ d-manufacturing-index\n\nActual from biquote.io
 URL:https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-i
  ndex
 DTSTART;TZID=America/New_York:20261119T083000
@@ -41,10 +41,11 @@ BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:147024
-DTSTAMP:20261119T104218Z
+DTSTAMP:20261119T144218Z
 SUMMARY:⁑ US Unemployment Claims
 DESCRIPTION:Impact: Medium\n\nForecast: 198K\n\nPrevious: 200K\n\nXAUUSD: a
  ctual BELOW forecast -> USD stronger, gold bearish. Actual ABOVE forecast 
@@ -60,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148604
-DTSTAMP:20261119T104218Z
+DTSTAMP:20261119T144218Z
 SUMMARY:⁑ US Revised UoM Consumer Sentiment
 DESCRIPTION:Impact: Medium\n\nForecast: 51.7\n\nPrevious: 51.0\n\nXAUUSD: a
  ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
@@ -77,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148616
-DTSTAMP:20261119T104218Z
+DTSTAMP:20261119T144218Z
 SUMMARY:⁑ US Revised UoM Inflation Expectations
 DESCRIPTION:Impact: Medium\n\nPrevious: 4.3%\n\nXAUUSD: actual ABOVE previo
  us -> USD stronger, gold bearish. Actual BELOW previous -> USD weaker, gol
