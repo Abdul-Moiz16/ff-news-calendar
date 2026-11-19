@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+PRODID:-//ff-news-calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:FF USD Medium Impact
+X-WR-CALDESC:Forex Factory USD events
+X-APPLE-CALENDAR-COLOR:#FF9500
+COLOR:#FF9500
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:146965
+DTSTAMP:20261119T104218Z
+SUMMARY:⁑ US Philly Fed Manufacturing Index
+DESCRIPTION:Impact: Medium\n\nForecast: 20.6\n\nPrevious: 20.9\n\nXAUUSD: a
+ ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
+ -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
+ alendar/325-us-philly-fed-manufacturing-index
+URL:https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-i
+ ndex
+DTSTART;TZID=America/New_York:20261119T083000
+DTEND;TZID=America/New_York:20261119T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:147024
+DTSTAMP:20261119T104218Z
+SUMMARY:⁑ US Unemployment Claims
+DESCRIPTION:Impact: Medium\n\nForecast: 198K\n\nPrevious: 200K\n\nXAUUSD: a
+ ctual BELOW forecast -> USD stronger, gold bearish. Actual ABOVE forecast 
+ -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
+ alendar/11-us-unemployment-claims
+URL:https://www.forexfactory.com/calendar/11-us-unemployment-claims
+DTSTART;TZID=America/New_York:20261119T083000
+DTEND;TZID=America/New_York:20261119T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148604
+DTSTAMP:20261119T104218Z
+SUMMARY:⁑ US Revised UoM Consumer Sentiment
+DESCRIPTION:Impact: Medium\n\nForecast: 51.7\n\nPrevious: 51.0\n\nXAUUSD: a
+ ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
+ -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
+ alendar/54-us-revised-uom-consumer-sentiment
+URL:https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentim
+ ent
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T100000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148616
+DTSTAMP:20261119T104218Z
+SUMMARY:⁑ US Revised UoM Inflation Expectations
+DESCRIPTION:Impact: Medium\n\nPrevious: 4.3%\n\nXAUUSD: actual ABOVE previo
+ us -> USD stronger, gold bearish. Actual BELOW previous -> USD weaker, gol
+ d bullish.\n\nView Event: https://www.forexfactory.com/calendar/238-us-rev
+ ised-uom-inflation-expectations
+URL:https://www.forexfactory.com/calendar/238-us-revised-uom-inflation-expe
+ ctations
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T100000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
