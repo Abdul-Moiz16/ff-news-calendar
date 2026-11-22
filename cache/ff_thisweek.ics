@@ -3,1800 +3,1063 @@ PRODID:-//eluceo/ical//2.0/EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:149361
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ NZ BusinessNZ Services Index
-DESCRIPTION:Impact: Low\n\nPrevious: 50.9\n\nView Event: https://www.forexf
- actory.com/calendar/852-nz-businessnz-services-index
-URL:https://www.forexfactory.com/calendar/852-nz-businessnz-services-index
-DTSTART;TZID=America/New_York:20261115T163000
-DTEND;TZID=America/New_York:20261115T163000
+UID:150011
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ NZ Core Retail Sales q/q
+DESCRIPTION:Impact: Low\n\nForecast: 0.8%\n\nPrevious: 0.7%\n\nView Event: 
+ https://www.forexfactory.com/calendar/511-nz-core-retail-sales-qq
+URL:https://www.forexfactory.com/calendar/511-nz-core-retail-sales-qq
+DTSTART;TZID=America/New_York:20261122T164500
+DTEND;TZID=America/New_York:20261122T164500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149615
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ JN Prelim GDP Price Index y/y
-DESCRIPTION:Impact: Low\n\nForecast: 2.6%\n\nPrevious: 2.6%\n\nView Event: 
- https://www.forexfactory.com/calendar/43-jn-prelim-gdp-price-index-yy
-URL:https://www.forexfactory.com/calendar/43-jn-prelim-gdp-price-index-yy
-DTSTART;TZID=America/New_York:20261115T185000
-DTEND;TZID=America/New_York:20261115T185000
+UID:150010
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ NZ Retail Sales q/q
+DESCRIPTION:Impact: Low\n\nForecast: 0.5%\n\nPrevious: -0.5%\n\nView Event:
+  https://www.forexfactory.com/calendar/510-nz-retail-sales-qq
+URL:https://www.forexfactory.com/calendar/510-nz-retail-sales-qq
+DTSTART;TZID=America/New_York:20261122T164500
+DTEND;TZID=America/New_York:20261122T164500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149614
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ JN Prelim GDP q/q
-DESCRIPTION:Impact: Low\n\nForecast: 0.1%\n\nPrevious: 0.3%\n\nView Event: 
- https://www.forexfactory.com/calendar/36-jn-prelim-gdp-qq
-URL:https://www.forexfactory.com/calendar/36-jn-prelim-gdp-qq
-DTSTART;TZID=America/New_York:20261115T185000
-DTEND;TZID=America/New_York:20261115T185000
+UID:150917
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ AU Flash Manufacturing PMI
+DESCRIPTION:Impact: Low\n\nPrevious: 49.7\n\nView Event: https://www.forexf
+ actory.com/calendar/817-au-flash-manufacturing-pmi
+URL:https://www.forexfactory.com/calendar/817-au-flash-manufacturing-pmi
+DTSTART;TZID=America/New_York:20261122T170000
+DTEND;TZID=America/New_York:20261122T170000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150782
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK Rightmove HPI m/m
-DESCRIPTION:Impact: Low\n\nPrevious: 1.0%\n\nView Event: https://www.forexf
- actory.com/calendar/243-uk-rightmove-hpi-mm
-URL:https://www.forexfactory.com/calendar/243-uk-rightmove-hpi-mm
-DTSTART;TZID=America/New_York:20261115T190100
-DTEND;TZID=America/New_York:20261115T190100
+UID:150918
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ AU Flash Services PMI
+DESCRIPTION:Impact: Low\n\nPrevious: 47.8\n\nView Event: https://www.forexf
+ actory.com/calendar/818-au-flash-services-pmi
+URL:https://www.forexfactory.com/calendar/818-au-flash-services-pmi
+DTSTART;TZID=America/New_York:20261122T170000
+DTEND;TZID=America/New_York:20261122T170000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150172
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CH New Home Prices m/m
-DESCRIPTION:Impact: Low\n\nPrevious: -0.14%\n\nView Event: https://www.fore
- xfactory.com/calendar/902-ch-new-home-prices-mm
-URL:https://www.forexfactory.com/calendar/902-ch-new-home-prices-mm
-DTSTART;TZID=America/New_York:20261115T203000
-DTEND;TZID=America/New_York:20261115T203000
+UID:147468
+DTSTAMP:20261122T084218Z
+SUMMARY: JN Bank Holiday
+DESCRIPTION:Impact: None\n\nView Event: https://www.forexfactory.com/calend
+ ar/393-jn-bank-holiday
+URL:https://www.forexfactory.com/calendar/393-jn-bank-holiday
+DTSTART;TZID=America/New_York:20261122T190000
+DTEND;TZID=America/New_York:20261122T190000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150415
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CH Fixed Asset Investment ytd/y
-DESCRIPTION:Impact: Low\n\nForecast: -7.0%\n\nPrevious: -7.2%\n\nView Event
- : https://www.forexfactory.com/calendar/458-ch-fixed-asset-investment-ytdy
-URL:https://www.forexfactory.com/calendar/458-ch-fixed-asset-investment-ytd
- y
-DTSTART;TZID=America/New_York:20261115T210000
-DTEND;TZID=America/New_York:20261115T210000
+UID:147679
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ FR Flash Manufacturing PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 49.8\n\nPrevious: 49.3\n\nView Even
+ t: https://www.forexfactory.com/calendar/268-fr-flash-manufacturing-pmi
+URL:https://www.forexfactory.com/calendar/268-fr-flash-manufacturing-pmi
+DTSTART;TZID=America/New_York:20261123T031500
+DTEND;TZID=America/New_York:20261123T031500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150416
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CH Industrial Production y/y
-DESCRIPTION:Impact: Low\n\nForecast: 5.3%\n\nPrevious: 5.5%\n\nView Event: 
- https://www.forexfactory.com/calendar/453-ch-industrial-production-yy
-URL:https://www.forexfactory.com/calendar/453-ch-industrial-production-yy
-DTSTART;TZID=America/New_York:20261115T210000
-DTEND;TZID=America/New_York:20261115T210000
+UID:147680
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ FR Flash Services PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 47.4\n\nPrevious: 48.4\n\nView Even
+ t: https://www.forexfactory.com/calendar/269-fr-flash-services-pmi
+URL:https://www.forexfactory.com/calendar/269-fr-flash-services-pmi
+DTSTART;TZID=America/New_York:20261123T031500
+DTEND;TZID=America/New_York:20261123T031500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150417
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CH NBS Press Conference
+UID:147681
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ GE Flash Manufacturing PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 54.1\n\nPrevious: 54.2\n\nView Even
+ t: https://www.forexfactory.com/calendar/266-ge-flash-manufacturing-pmi
+URL:https://www.forexfactory.com/calendar/266-ge-flash-manufacturing-pmi
+DTSTART;TZID=America/New_York:20261123T033000
+DTEND;TZID=America/New_York:20261123T033000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:147682
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ GE Flash Services PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 52.4\n\nPrevious: 51.7\n\nView Even
+ t: https://www.forexfactory.com/calendar/267-ge-flash-services-pmi
+URL:https://www.forexfactory.com/calendar/267-ge-flash-services-pmi
+DTSTART;TZID=America/New_York:20261123T033000
+DTEND;TZID=America/New_York:20261123T033000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:147684
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ EZ Flash Manufacturing PMI
+DESCRIPTION:Impact: Low\n\nForecast: 52.7\n\nPrevious: 52.4\n\nView Event: 
+ https://www.forexfactory.com/calendar/263-ez-flash-manufacturing-pmi
+URL:https://www.forexfactory.com/calendar/263-ez-flash-manufacturing-pmi
+DTSTART;TZID=America/New_York:20261123T040000
+DTEND;TZID=America/New_York:20261123T040000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:147683
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ EZ Flash Services PMI
+DESCRIPTION:Impact: Low\n\nForecast: 51.8\n\nPrevious: 51.7\n\nView Event: 
+ https://www.forexfactory.com/calendar/244-ez-flash-services-pmi
+URL:https://www.forexfactory.com/calendar/244-ez-flash-services-pmi
+DTSTART;TZID=America/New_York:20261123T040000
+DTEND;TZID=America/New_York:20261123T040000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:147685
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ UK Flash Manufacturing PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 53.0\n\nPrevious: 52.8\n\nView Even
+ t: https://www.forexfactory.com/calendar/837-uk-flash-manufacturing-pmi
+URL:https://www.forexfactory.com/calendar/837-uk-flash-manufacturing-pmi
+DTSTART;TZID=America/New_York:20261123T043000
+DTEND;TZID=America/New_York:20261123T043000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:147686
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ UK Flash Services PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 53.0\n\nPrevious: 53.1\n\nView Even
+ t: https://www.forexfactory.com/calendar/836-uk-flash-services-pmi
+URL:https://www.forexfactory.com/calendar/836-uk-flash-services-pmi
+DTSTART;TZID=America/New_York:20261123T043000
+DTEND;TZID=America/New_York:20261123T043000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:156627
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ UK MPC Member Pill Speaks
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/469-ch-nbs-press-conference
-URL:https://www.forexfactory.com/calendar/469-ch-nbs-press-conference
-DTSTART;TZID=America/New_York:20261115T210000
-DTEND;TZID=America/New_York:20261115T210000
+ r/850-uk-mpc-member-pill-speaks
+URL:https://www.forexfactory.com/calendar/850-uk-mpc-member-pill-speaks
+DTSTART;TZID=America/New_York:20261123T080000
+DTEND;TZID=America/New_York:20261123T080000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150418
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CH Retail Sales y/y
-DESCRIPTION:Impact: Low\n\nForecast: 0.8%\n\nPrevious: 1.1%\n\nView Event: 
- https://www.forexfactory.com/calendar/470-ch-retail-sales-yy
-URL:https://www.forexfactory.com/calendar/470-ch-retail-sales-yy
-DTSTART;TZID=America/New_York:20261115T210000
-DTEND;TZID=America/New_York:20261115T210000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:150419
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CH Unemployment Rate
-DESCRIPTION:Impact: Low\n\nForecast: 5.2%\n\nPrevious: 5.2%\n\nView Event: 
- https://www.forexfactory.com/calendar/771-ch-unemployment-rate
-URL:https://www.forexfactory.com/calendar/771-ch-unemployment-rate
-DTSTART;TZID=America/New_York:20261115T210000
-DTEND;TZID=America/New_York:20261115T210000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149688
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ JN Revised Industrial Production m/m
-DESCRIPTION:Impact: Low\n\nForecast: 2.2%\n\nPrevious: 2.2%\n\nView Event: 
- https://www.forexfactory.com/calendar/226-jn-revised-industrial-production
- -mm
-URL:https://www.forexfactory.com/calendar/226-jn-revised-industrial-product
- ion-mm
-DTSTART;TZID=America/New_York:20261115T233000
-DTEND;TZID=America/New_York:20261115T233000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:151329
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ EZ Industrial Production m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.3%\n\nPrevious: -0.5%\n\nView Event:
-  https://www.forexfactory.com/calendar/220-ez-industrial-production-mm
-URL:https://www.forexfactory.com/calendar/220-ez-industrial-production-mm
-DTSTART;TZID=America/New_York:20261116T050000
-DTEND;TZID=America/New_York:20261116T050000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155915
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Barr Speaks
+UID:149273
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ CA Corporate Profits q/q
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/880-us-fomc-member-barr-speaks
-URL:https://www.forexfactory.com/calendar/880-us-fomc-member-barr-speaks
-DTSTART;TZID=America/New_York:20261116T050000
-DTEND;TZID=America/New_York:20261116T050000
+ r/379-ca-corporate-profits-qq
+URL:https://www.forexfactory.com/calendar/379-ca-corporate-profits-qq
+DTSTART;TZID=America/New_York:20261123T083000
+DTEND;TZID=America/New_York:20261123T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149174
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ CA CPI m/m
-DESCRIPTION:Impact: High\n\nForecast: 0.3%\n\nPrevious: 0.1%\n\nView Event:
-  https://www.forexfactory.com/calendar/80-ca-cpi-mm
-URL:https://www.forexfactory.com/calendar/80-ca-cpi-mm
-DTSTART;TZID=America/New_York:20261116T083000
-DTEND;TZID=America/New_York:20261116T083000
+UID:149772
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ US Flash Manufacturing PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 54.5\n\nPrevious: 56.0\n\nView Even
+ t: https://www.forexfactory.com/calendar/552-us-flash-manufacturing-pmi
+URL:https://www.forexfactory.com/calendar/552-us-flash-manufacturing-pmi
+DTSTART;TZID=America/New_York:20261123T094500
+DTEND;TZID=America/New_York:20261123T094500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149177
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ CA Median CPI y/y
-DESCRIPTION:Impact: High\n\nForecast: 2.0%\n\nPrevious: 1.9%\n\nView Event:
-  https://www.forexfactory.com/calendar/659-ca-median-cpi-yy
-URL:https://www.forexfactory.com/calendar/659-ca-median-cpi-yy
-DTSTART;TZID=America/New_York:20261116T083000
-DTEND;TZID=America/New_York:20261116T083000
+UID:149784
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ US Flash Services PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 55.6\n\nPrevious: 57.9\n\nView Even
+ t: https://www.forexfactory.com/calendar/583-us-flash-services-pmi
+URL:https://www.forexfactory.com/calendar/583-us-flash-services-pmi
+DTSTART;TZID=America/New_York:20261123T094500
+DTEND;TZID=America/New_York:20261123T094500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149178
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ CA Trimmed CPI y/y
-DESCRIPTION:Impact: High\n\nForecast: 1.9%\n\nPrevious: 1.8%\n\nView Event:
-  https://www.forexfactory.com/calendar/657-ca-trimmed-cpi-yy
-URL:https://www.forexfactory.com/calendar/657-ca-trimmed-cpi-yy
-DTSTART;TZID=America/New_York:20261116T083000
-DTEND;TZID=America/New_York:20261116T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149175
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ CA Common CPI y/y
-DESCRIPTION:Impact: Medium\n\nForecast: 2.5%\n\nPrevious: 2.4%\n\nView Even
- t: https://www.forexfactory.com/calendar/664-ca-common-cpi-yy
-URL:https://www.forexfactory.com/calendar/664-ca-common-cpi-yy
-DTSTART;TZID=America/New_York:20261116T083000
-DTEND;TZID=America/New_York:20261116T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149176
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CA Core CPI m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.2%\n\nPrevious: 0.0%\n\nView Event: 
- https://www.forexfactory.com/calendar/81-ca-core-cpi-mm
-URL:https://www.forexfactory.com/calendar/81-ca-core-cpi-mm
-DTSTART;TZID=America/New_York:20261116T083000
-DTEND;TZID=America/New_York:20261116T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:148628
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Empire State Manufacturing Index
-DESCRIPTION:Impact: Low\n\nForecast: 17.6\n\nPrevious: 25.5\n\nView Event: 
- https://www.forexfactory.com/calendar/207-us-empire-state-manufacturing-in
- dex
-URL:https://www.forexfactory.com/calendar/207-us-empire-state-manufacturing
- -index
-DTSTART;TZID=America/New_York:20261116T083000
-DTEND;TZID=America/New_York:20261116T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155892
-DTSTAMP:20261120T195607Z
+UID:156628
+DTSTAMP:20261122T084218Z
 SUMMARY:⁎ US FOMC Member Williams Speaks
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/518-us-fomc-member-williams-speaks
 URL:https://www.forexfactory.com/calendar/518-us-fomc-member-williams-speak
  s
-DTSTART;TZID=America/New_York:20261116T090500
-DTEND;TZID=America/New_York:20261116T090500
+DTSTART;TZID=America/New_York:20261123T160000
+DTEND;TZID=America/New_York:20261123T160000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:146942
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Cleveland Fed Inflation Expectations
-DESCRIPTION:Impact: Low\n\nPrevious: 3.3%\n\nView Event: https://www.forexf
- actory.com/calendar/909-us-cleveland-fed-inflation-expectations
-URL:https://www.forexfactory.com/calendar/909-us-cleveland-fed-inflation-ex
- pectations
-DTSTART;TZID=America/New_York:20261116T094500
-DTEND;TZID=America/New_York:20261116T094500
+UID:150931
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ JN Flash Manufacturing PMI
+DESCRIPTION:Impact: Low\n\nForecast: 53.5\n\nPrevious: 53.3\n\nView Event: 
+ https://www.forexfactory.com/calendar/595-jn-flash-manufacturing-pmi
+URL:https://www.forexfactory.com/calendar/595-jn-flash-manufacturing-pmi
+DTSTART;TZID=America/New_York:20261123T193000
+DTEND;TZID=America/New_York:20261123T193000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155893
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ US Fed Chairman Warsh Speaks
-DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
- ar/129-us-fed-chairman-warsh-speaks
-URL:https://www.forexfactory.com/calendar/129-us-fed-chairman-warsh-speaks
-DTSTART;TZID=America/New_York:20261116T120000
-DTEND;TZID=America/New_York:20261116T120000
+UID:150216
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ CH Foreign Direct Investment ytd/y
+DESCRIPTION:Impact: Low\n\nPrevious: -4.3%\n\nView Event: https://www.forex
+ factory.com/calendar/457-ch-foreign-direct-investment-ytdy
+URL:https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-
+ ytdy
+DTSTART;TZID=America/New_York:20261124T020200
+DTEND;TZID=America/New_York:20261124T020200
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155947
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Hammack Speaks
+UID:150436
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ GE ifo Business Climate
+DESCRIPTION:Impact: Low\n\nForecast: 90.6\n\nPrevious: 90.2\n\nView Event: 
+ https://www.forexfactory.com/calendar/316-ge-ifo-business-climate
+URL:https://www.forexfactory.com/calendar/316-ge-ifo-business-climate
+DTSTART;TZID=America/New_York:20261124T040000
+DTEND;TZID=America/New_York:20261124T040000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:150664
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ UK CBI Realized Sales
+DESCRIPTION:Impact: Low\n\nForecast: -24\n\nPrevious: -10\n\nView Event: ht
+ tps://www.forexfactory.com/calendar/329-uk-cbi-realized-sales
+URL:https://www.forexfactory.com/calendar/329-uk-cbi-realized-sales
+DTSTART;TZID=America/New_York:20261124T060000
+DTEND;TZID=America/New_York:20261124T060000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:156629
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ UK MPC Member Greene Speaks
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/913-us-fomc-member-hammack-speaks
-URL:https://www.forexfactory.com/calendar/913-us-fomc-member-hammack-speaks
-DTSTART;TZID=America/New_York:20261116T141500
-DTEND;TZID=America/New_York:20261116T141500
+ r/894-uk-mpc-member-greene-speaks
+URL:https://www.forexfactory.com/calendar/894-uk-mpc-member-greene-speaks
+DTSTART;TZID=America/New_York:20261124T073000
+DTEND;TZID=America/New_York:20261124T073000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:148875
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ NZ RBNZ Financial Stability Report
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/25-nz-rbnz-financial-stability-report
-URL:https://www.forexfactory.com/calendar/25-nz-rbnz-financial-stability-re
- port
-DTSTART;TZID=America/New_York:20261116T150000
-DTEND;TZID=America/New_York:20261116T150000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149337
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ NZ FPI m/m
-DESCRIPTION:Impact: Low\n\nPrevious: 0.0%\n\nView Event: https://www.forexf
- actory.com/calendar/101-nz-fpi-mm
-URL:https://www.forexfactory.com/calendar/101-nz-fpi-mm
-DTSTART;TZID=America/New_York:20261116T164500
-DTEND;TZID=America/New_York:20261116T164500
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155894
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ AU RBA Gov Bullock Speaks
-DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
- ar/671-au-rba-gov-bullock-speaks
-URL:https://www.forexfactory.com/calendar/671-au-rba-gov-bullock-speaks
-DTSTART;TZID=America/New_York:20261116T175000
-DTEND;TZID=America/New_York:20261116T175000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155974
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Barkin Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/728-us-fomc-member-barkin-speaks
-URL:https://www.forexfactory.com/calendar/728-us-fomc-member-barkin-speaks
-DTSTART;TZID=America/New_York:20261116T181000
-DTEND;TZID=America/New_York:20261116T181000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155975
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Goolsbee Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/889-us-fomc-member-goolsbee-speaks
-URL:https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speak
- s
-DTSTART;TZID=America/New_York:20261116T183000
-DTEND;TZID=America/New_York:20261116T183000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:156004
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ NZ RBNZ Gov Breman Speaks
-DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
- ndar/927-nz-rbnz-gov-breman-speaks
-URL:https://www.forexfactory.com/calendar/927-nz-rbnz-gov-breman-speaks
-DTSTART;TZID=America/New_York:20261116T190000
-DTEND;TZID=America/New_York:20261116T190000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:148528
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ AU Monetary Policy Meeting Minutes
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/307-au-monetary-policy-meeting-minutes
-URL:https://www.forexfactory.com/calendar/307-au-monetary-policy-meeting-mi
- nutes
-DTSTART;TZID=America/New_York:20261116T193000
-DTEND;TZID=America/New_York:20261116T193000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149382
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ NZ Inflation Expectations q/q
-DESCRIPTION:Impact: High\n\nPrevious: 2.34%\n\nView Event: https://www.fore
- xfactory.com/calendar/309-nz-inflation-expectations-qq
-URL:https://www.forexfactory.com/calendar/309-nz-inflation-expectations-qq
-DTSTART;TZID=America/New_York:20261116T210000
-DTEND;TZID=America/New_York:20261116T210000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149724
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ JN Tertiary Industry Activity m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.1%\n\nPrevious: -0.1%\n\nView Event:
-  https://www.forexfactory.com/calendar/382-jn-tertiary-industry-activity-m
- m
-URL:https://www.forexfactory.com/calendar/382-jn-tertiary-industry-activity
- -mm
-DTSTART;TZID=America/New_York:20261116T233000
-DTEND;TZID=America/New_York:20261116T233000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:151094
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ UK Average Earnings Index 3m/y
-DESCRIPTION:Impact: Medium\n\nForecast: 3.5%\n\nPrevious: 3.7%\n\nView Even
- t: https://www.forexfactory.com/calendar/180-uk-average-earnings-index-3my
-URL:https://www.forexfactory.com/calendar/180-uk-average-earnings-index-3my
-DTSTART;TZID=America/New_York:20261117T020000
-DTEND;TZID=America/New_York:20261117T020000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:151096
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK Claimant Count Change
-DESCRIPTION:Impact: Low\n\nForecast: 25.4K\n\nPrevious: 30.3K\n\nView Event
- : https://www.forexfactory.com/calendar/68-uk-claimant-count-change
-URL:https://www.forexfactory.com/calendar/68-uk-claimant-count-change
-DTSTART;TZID=America/New_York:20261117T020000
-DTEND;TZID=America/New_York:20261117T020000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155842
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK HMRC Payrolls Change
-DESCRIPTION:Impact: Low\n\nForecast: 9K\n\nPrevious: 13K\n\nView Event: htt
- ps://www.forexfactory.com/calendar/934-uk-hmrc-payrolls-change
-URL:https://www.forexfactory.com/calendar/934-uk-hmrc-payrolls-change
-DTSTART;TZID=America/New_York:20261117T020000
-DTEND;TZID=America/New_York:20261117T020000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:151095
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK Unemployment Rate
-DESCRIPTION:Impact: Low\n\nForecast: 4.7%\n\nPrevious: 4.7%\n\nView Event: 
- https://www.forexfactory.com/calendar/58-uk-unemployment-rate
-URL:https://www.forexfactory.com/calendar/58-uk-unemployment-rate
-DTSTART;TZID=America/New_York:20261117T020000
-DTEND;TZID=America/New_York:20261117T020000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:150565
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ EZ EU Economic Forecasts
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/413-ez-eu-economic-forecasts
-URL:https://www.forexfactory.com/calendar/413-ez-eu-economic-forecasts
-DTSTART;TZID=America/New_York:20261117T050000
-DTEND;TZID=America/New_York:20261117T050000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:150506
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ EZ ZEW Economic Sentiment
-DESCRIPTION:Impact: Low\n\nForecast: 19.1\n\nPrevious: 18.5\n\nView Event: 
- https://www.forexfactory.com/calendar/314-ez-zew-economic-sentiment
-URL:https://www.forexfactory.com/calendar/314-ez-zew-economic-sentiment
-DTSTART;TZID=America/New_York:20261117T050000
-DTEND;TZID=America/New_York:20261117T050000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:150507
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ GE ZEW Economic Sentiment
-DESCRIPTION:Impact: Low\n\nForecast: 28.8\n\nPrevious: 28.1\n\nView Event: 
- https://www.forexfactory.com/calendar/313-ge-zew-economic-sentiment
-URL:https://www.forexfactory.com/calendar/313-ge-zew-economic-sentiment
-DTSTART;TZID=America/New_York:20261117T050000
-DTEND;TZID=America/New_York:20261117T050000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155895
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Musalem Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/911-us-fomc-member-musalem-speaks
-URL:https://www.forexfactory.com/calendar/911-us-fomc-member-musalem-speaks
-DTSTART;TZID=America/New_York:20261117T073000
-DTEND;TZID=America/New_York:20261117T073000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149563
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CA Housing Starts
-DESCRIPTION:Impact: Low\n\nForecast: 241K\n\nPrevious: 249K\n\nView Event: 
- https://www.forexfactory.com/calendar/201-ca-housing-starts
-URL:https://www.forexfactory.com/calendar/201-ca-housing-starts
-DTSTART;TZID=America/New_York:20261117T081500
-DTEND;TZID=America/New_York:20261117T081500
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:151053
-DTSTAMP:20261120T195607Z
+UID:151054
+DTSTAMP:20261122T084218Z
 SUMMARY:⁎ US ADP Weekly Employment Change
-DESCRIPTION:Impact: Low\n\nPrevious: 19.8K\n\nView Event: https://www.forex
+DESCRIPTION:Impact: Low\n\nPrevious: 23.8K\n\nView Event: https://www.forex
  factory.com/calendar/929-us-adp-weekly-employment-change
 URL:https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-chan
  ge
-DTSTART;TZID=America/New_York:20261117T081500
-DTEND;TZID=America/New_York:20261117T081500
+DTSTART;TZID=America/New_York:20261124T081500
+DTEND;TZID=America/New_York:20261124T081500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149269
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CA Foreign Securities Purchases
-DESCRIPTION:Impact: Low\n\nForecast: 14.85B\n\nPrevious: -17.31B\n\nView Ev
- ent: https://www.forexfactory.com/calendar/374-ca-foreign-securities-purch
- ases
-URL:https://www.forexfactory.com/calendar/374-ca-foreign-securities-purchas
- es
-DTSTART;TZID=America/New_York:20261117T083000
-DTEND;TZID=America/New_York:20261117T083000
+UID:151699
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ CH CB Leading Index m/m
+DESCRIPTION:Impact: Low\n\nPrevious: -0.1%\n\nView Event: https://www.forex
+ factory.com/calendar/495-ch-cb-leading-index-mm
+URL:https://www.forexfactory.com/calendar/495-ch-cb-leading-index-mm
+DTSTART;TZID=America/New_York:20261124T090000
+DTEND;TZID=America/New_York:20261124T090000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:148047
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ US Core Retail Sales m/m
-DESCRIPTION:Impact: High\n\nForecast: 0.4%\n\nPrevious: 0.9%\n\nView Event:
-  https://www.forexfactory.com/calendar/112-us-core-retail-sales-mm
-URL:https://www.forexfactory.com/calendar/112-us-core-retail-sales-mm
-DTSTART;TZID=America/New_York:20261117T083000
-DTEND;TZID=America/New_York:20261117T083000
+UID:151396
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ BE NBB Business Climate
+DESCRIPTION:Impact: Low\n\nForecast: -9.3\n\nPrevious: -9.8\n\nView Event: 
+ https://www.forexfactory.com/calendar/317-be-nbb-business-climate
+URL:https://www.forexfactory.com/calendar/317-be-nbb-business-climate
+DTSTART;TZID=America/New_York:20261124T090000
+DTEND;TZID=America/New_York:20261124T090000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:148035
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ US Retail Sales m/m
-DESCRIPTION:Impact: High\n\nForecast: 0.1%\n\nPrevious: 0.8%\n\nView Event:
-  https://www.forexfactory.com/calendar/102-us-retail-sales-mm
-URL:https://www.forexfactory.com/calendar/102-us-retail-sales-mm
-DTSTART;TZID=America/New_York:20261117T083000
-DTEND;TZID=America/New_York:20261117T083000
+UID:148672
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US HPI m/m
+DESCRIPTION:Impact: Low\n\nForecast: 0.2%\n\nPrevious: 0.3%\n\nView Event: 
+ https://www.forexfactory.com/calendar/239-us-hpi-mm
+URL:https://www.forexfactory.com/calendar/239-us-hpi-mm
+DTSTART;TZID=America/New_York:20261124T090000
+DTEND;TZID=America/New_York:20261124T090000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:148421
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Import Prices m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.7%\n\nPrevious: 1.1%\n\nView Event: 
- https://www.forexfactory.com/calendar/256-us-import-prices-mm
-URL:https://www.forexfactory.com/calendar/256-us-import-prices-mm
-DTSTART;TZID=America/New_York:20261117T083000
-DTEND;TZID=America/New_York:20261117T083000
+UID:148660
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US S&P/CS Composite-20 HPI y/y
+DESCRIPTION:Impact: Low\n\nForecast: 2.7%\n\nPrevious: 2.7%\n\nView Event: 
+ https://www.forexfactory.com/calendar/240-us-spcs-composite-20-hpi-yy
+URL:https://www.forexfactory.com/calendar/240-us-spcs-composite-20-hpi-yy
+DTSTART;TZID=America/New_York:20261124T090000
+DTEND;TZID=America/New_York:20261124T090000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155916
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Waller Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/839-us-fomc-member-waller-speaks
-URL:https://www.forexfactory.com/calendar/839-us-fomc-member-waller-speaks
-DTSTART;TZID=America/New_York:20261117T091000
-DTEND;TZID=America/New_York:20261117T091000
+UID:146888
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ US CB Consumer Confidence
+DESCRIPTION:Impact: Medium\n\nForecast: 92.1\n\nPrevious: 91.7\n\nView Even
+ t: https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence
+URL:https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence
+DTSTART;TZID=America/New_York:20261124T100000
+DTEND;TZID=America/New_York:20261124T100000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:147053
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Capacity Utilization Rate
-DESCRIPTION:Impact: Low\n\nForecast: 76.8%\n\nPrevious: 76.9%\n\nView Event
- : https://www.forexfactory.com/calendar/192-us-capacity-utilization-rate
-URL:https://www.forexfactory.com/calendar/192-us-capacity-utilization-rate
-DTSTART;TZID=America/New_York:20261117T091500
-DTEND;TZID=America/New_York:20261117T091500
+UID:146977
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US Richmond Manufacturing Index
+DESCRIPTION:Impact: Low\n\nForecast: -3\n\nPrevious: -2\n\nView Event: http
+ s://www.forexfactory.com/calendar/186-us-richmond-manufacturing-index
+URL:https://www.forexfactory.com/calendar/186-us-richmond-manufacturing-ind
+ ex
+DTSTART;TZID=America/New_York:20261124T100000
+DTEND;TZID=America/New_York:20261124T100000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:147041
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Industrial Production m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.0%\n\nPrevious: 0.7%\n\nView Event: 
- https://www.forexfactory.com/calendar/191-us-industrial-production-mm
-URL:https://www.forexfactory.com/calendar/191-us-industrial-production-mm
-DTSTART;TZID=America/New_York:20261117T091500
-DTEND;TZID=America/New_York:20261117T091500
+UID:156630
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ CA BOC Gov Macklem Speaks
+DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
+ ndar/840-ca-boc-gov-macklem-speaks
+URL:https://www.forexfactory.com/calendar/840-ca-boc-gov-macklem-speaks
+DTSTART;TZID=America/New_York:20261124T122500
+DTEND;TZID=America/New_York:20261124T122500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149404
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ NZ GDT Price Index
-DESCRIPTION:Impact: Low\n\nPrevious: 3.0%\n\nView Event: https://www.forexf
- actory.com/calendar/602-nz-gdt-price-index
-URL:https://www.forexfactory.com/calendar/602-nz-gdt-price-index
-DTSTART;TZID=America/New_York:20261117T092900
-DTEND;TZID=America/New_York:20261117T092900
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155896
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Hammack Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/913-us-fomc-member-hammack-speaks
-URL:https://www.forexfactory.com/calendar/913-us-fomc-member-hammack-speaks
-DTSTART;TZID=America/New_York:20261117T093000
-DTEND;TZID=America/New_York:20261117T093000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:148090
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Business Inventories m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.5%\n\nPrevious: 0.4%\n\nView Event: 
- https://www.forexfactory.com/calendar/153-us-business-inventories-mm
-URL:https://www.forexfactory.com/calendar/153-us-business-inventories-mm
-DTSTART;TZID=America/New_York:20261117T100000
-DTEND;TZID=America/New_York:20261117T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149760
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US NAHB Housing Market Index
-DESCRIPTION:Impact: Low\n\nForecast: 29\n\nPrevious: 29\n\nView Event: http
- s://www.forexfactory.com/calendar/162-us-nahb-housing-market-index
-URL:https://www.forexfactory.com/calendar/162-us-nahb-housing-market-index
-DTSTART;TZID=America/New_York:20261117T100000
-DTEND;TZID=America/New_York:20261117T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155910
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Williams Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/518-us-fomc-member-williams-speaks
-URL:https://www.forexfactory.com/calendar/518-us-fomc-member-williams-speak
- s
-DTSTART;TZID=America/New_York:20261117T142500
-DTEND;TZID=America/New_York:20261117T142500
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:147100
-DTSTAMP:20261120T195607Z
+UID:147101
+DTSTAMP:20261122T084218Z
 SUMMARY:⁎ US API Weekly Statistical Bulletin
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/754-us-api-weekly-statistical-bulletin
 URL:https://www.forexfactory.com/calendar/754-us-api-weekly-statistical-bul
  letin
-DTSTART;TZID=America/New_York:20261117T163000
-DTEND;TZID=America/New_York:20261117T163000
+DTSTART;TZID=America/New_York:20261124T163000
+DTEND;TZID=America/New_York:20261124T163000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150050
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ NZ PPI Input q/q
-DESCRIPTION:Impact: Low\n\nForecast: 1.5%\n\nPrevious: 2.9%\n\nView Event: 
- https://www.forexfactory.com/calendar/94-nz-ppi-input-qq
-URL:https://www.forexfactory.com/calendar/94-nz-ppi-input-qq
-DTSTART;TZID=America/New_York:20261117T164500
-DTEND;TZID=America/New_York:20261117T164500
+UID:149956
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ JN SPPI y/y
+DESCRIPTION:Impact: Low\n\nForecast: 3.6%\n\nPrevious: 3.7%\n\nView Event: 
+ https://www.forexfactory.com/calendar/176-jn-sppi-yy
+URL:https://www.forexfactory.com/calendar/176-jn-sppi-yy
+DTSTART;TZID=America/New_York:20261124T185000
+DTEND;TZID=America/New_York:20261124T185000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150051
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ NZ PPI Output q/q
-DESCRIPTION:Impact: Low\n\nForecast: 1.1%\n\nPrevious: 1.6%\n\nView Event: 
- https://www.forexfactory.com/calendar/95-nz-ppi-output-qq
-URL:https://www.forexfactory.com/calendar/95-nz-ppi-output-qq
-DTSTART;TZID=America/New_York:20261117T164500
-DTEND;TZID=America/New_York:20261117T164500
+UID:152602
+DTSTAMP:20261122T084218Z
+SUMMARY:⁂ AU CPI m/m
+DESCRIPTION:Impact: High\n\nForecast: 0.4%\n\nPrevious: 0.8%\n\nView Event:
+  https://www.forexfactory.com/calendar/98-au-cpi-mm
+URL:https://www.forexfactory.com/calendar/98-au-cpi-mm
+DTSTART;TZID=America/New_York:20261124T193000
+DTEND;TZID=America/New_York:20261124T193000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:148305
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ AU MI Leading Index m/m
-DESCRIPTION:Impact: Low\n\nPrevious: -0.1%\n\nView Event: https://www.forex
- factory.com/calendar/303-au-mi-leading-index-mm
-URL:https://www.forexfactory.com/calendar/303-au-mi-leading-index-mm
-DTSTART;TZID=America/New_York:20261117T183900
-DTEND;TZID=America/New_York:20261117T183900
+UID:149102
+DTSTAMP:20261122T084218Z
+SUMMARY:⁂ AU CPI y/y
+DESCRIPTION:Impact: High\n\nForecast: 4.8%\n\nPrevious: 4.3%\n\nView Event:
+  https://www.forexfactory.com/calendar/888-au-cpi-yy
+URL:https://www.forexfactory.com/calendar/888-au-cpi-yy
+DTSTART;TZID=America/New_York:20261124T193000
+DTEND;TZID=America/New_York:20261124T193000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149736
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ JN Trade Balance
-DESCRIPTION:Impact: Low\n\nForecast: -0.90T\n\nPrevious: -0.70T\n\nView Eve
- nt: https://www.forexfactory.com/calendar/123-jn-trade-balance
-URL:https://www.forexfactory.com/calendar/123-jn-trade-balance
-DTSTART;TZID=America/New_York:20261117T185000
-DTEND;TZID=America/New_York:20261117T185000
+UID:152603
+DTSTAMP:20261122T084218Z
+SUMMARY:⁂ AU Trimmed Mean CPI m/m
+DESCRIPTION:Impact: High\n\nForecast: 0.3%\n\nPrevious: 0.3%\n\nView Event:
+  https://www.forexfactory.com/calendar/99-au-trimmed-mean-cpi-mm
+URL:https://www.forexfactory.com/calendar/99-au-trimmed-mean-cpi-mm
+DTSTART;TZID=America/New_York:20261124T193000
+DTEND;TZID=America/New_York:20261124T193000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:148501
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ AU Wage Price Index q/q
-DESCRIPTION:Impact: Medium\n\nForecast: 1.0%\n\nPrevious: 0.8%\n\nView Even
- t: https://www.forexfactory.com/calendar/182-au-wage-price-index-qq
-URL:https://www.forexfactory.com/calendar/182-au-wage-price-index-qq
-DTSTART;TZID=America/New_York:20261117T193000
-DTEND;TZID=America/New_York:20261117T193000
+UID:148366
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ AU Construction Work Done q/q
+DESCRIPTION:Impact: Low\n\nForecast: 0.8%\n\nPrevious: -2.1%\n\nView Event:
+  https://www.forexfactory.com/calendar/213-au-construction-work-done-qq
+URL:https://www.forexfactory.com/calendar/213-au-construction-work-done-qq
+DTSTART;TZID=America/New_York:20261124T193000
+DTEND;TZID=America/New_York:20261124T193000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155909
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ GE Buba President Nagel Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/851-ge-buba-president-nagel-speaks
-URL:https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speak
- s
-DTSTART;TZID=America/New_York:20261117T214500
-DTEND;TZID=America/New_York:20261117T214500
+UID:149908
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ JN BOJ Core CPI y/y
+DESCRIPTION:Impact: Low\n\nForecast: 2.5%\n\nPrevious: 2.4%\n\nView Event: 
+ https://www.forexfactory.com/calendar/631-jn-boj-core-cpi-yy
+URL:https://www.forexfactory.com/calendar/631-jn-boj-core-cpi-yy
+DTSTART;TZID=America/New_York:20261125T000000
+DTEND;TZID=America/New_York:20261125T000000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155375
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ UK CPI y/y
-DESCRIPTION:Impact: High\n\nForecast: 3.6%\n\nPrevious: 3.5%\n\nView Event:
-  https://www.forexfactory.com/calendar/82-uk-cpi-yy
-URL:https://www.forexfactory.com/calendar/82-uk-cpi-yy
-DTSTART;TZID=America/New_York:20261118T020000
-DTEND;TZID=America/New_York:20261118T020000
+UID:151211
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ GE Final GDP q/q
+DESCRIPTION:Impact: Low\n\nForecast: 0.2%\n\nPrevious: 0.2%\n\nView Event: 
+ https://www.forexfactory.com/calendar/77-ge-final-gdp-qq
+URL:https://www.forexfactory.com/calendar/77-ge-final-gdp-qq
+DTSTART;TZID=America/New_York:20261125T020000
+DTEND;TZID=America/New_York:20261125T020000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:151464
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK Core CPI y/y
-DESCRIPTION:Impact: Low\n\nForecast: 2.8%\n\nPrevious: 2.8%\n\nView Event: 
- https://www.forexfactory.com/calendar/83-uk-core-cpi-yy
-URL:https://www.forexfactory.com/calendar/83-uk-core-cpi-yy
-DTSTART;TZID=America/New_York:20261118T020000
-DTEND;TZID=America/New_York:20261118T020000
+UID:147381
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ SZ UBS Economic Expectations
+DESCRIPTION:Impact: Low\n\nPrevious: -15.3\n\nView Event: https://www.forex
+ factory.com/calendar/315-sz-ubs-economic-expectations
+URL:https://www.forexfactory.com/calendar/315-sz-ubs-economic-expectations
+DTSTART;TZID=America/New_York:20261125T040000
+DTEND;TZID=America/New_York:20261125T040000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:151461
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK PPI Input m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.8%\n\nPrevious: 1.5%\n\nView Event: 
- https://www.forexfactory.com/calendar/92-uk-ppi-input-mm
-URL:https://www.forexfactory.com/calendar/92-uk-ppi-input-mm
-DTSTART;TZID=America/New_York:20261118T020000
-DTEND;TZID=America/New_York:20261118T020000
+UID:150455
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ GE 10-y Bond Auction
+DESCRIPTION:Impact: Low\n\nPrevious: 3.37|1.1\n\nView Event: https://www.fo
+ rexfactory.com/calendar/522-ge-10-y-bond-auction
+URL:https://www.forexfactory.com/calendar/522-ge-10-y-bond-auction
+DTSTART;TZID=America/New_York:20261125T054200
+DTEND;TZID=America/New_York:20261125T054200
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:151460
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK PPI Output m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.6%\n\nPrevious: 0.8%\n\nView Event: 
- https://www.forexfactory.com/calendar/93-uk-ppi-output-mm
-URL:https://www.forexfactory.com/calendar/93-uk-ppi-output-mm
-DTSTART;TZID=America/New_York:20261118T020000
-DTEND;TZID=America/New_York:20261118T020000
+UID:148237
+DTSTAMP:20261122T084218Z
+SUMMARY:⁂ US Core PCE Price Index m/m
+DESCRIPTION:Impact: High\n\nForecast: 0.3%\n\nPrevious: 0.3%\n\nView Event:
+  https://www.forexfactory.com/calendar/85-us-core-pce-price-index-mm
+URL:https://www.forexfactory.com/calendar/85-us-core-pce-price-index-mm
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:151459
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK RPI y/y
-DESCRIPTION:Impact: Low\n\nForecast: 4.1%\n\nPrevious: 3.9%\n\nView Event: 
- https://www.forexfactory.com/calendar/84-uk-rpi-yy
-URL:https://www.forexfactory.com/calendar/84-uk-rpi-yy
-DTSTART;TZID=America/New_York:20261118T020000
-DTEND;TZID=America/New_York:20261118T020000
+UID:148292
+DTSTAMP:20261122T084218Z
+SUMMARY:⁂ US Prelim GDP q/q
+DESCRIPTION:Impact: High\n\nForecast: 3.5%\n\nPrevious: 3.4%\n\nView Event:
+  https://www.forexfactory.com/calendar/27-us-prelim-gdp-qq
+URL:https://www.forexfactory.com/calendar/27-us-prelim-gdp-qq
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155897
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ UK BOE Gov Bailey Speaks
-DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
- ndar/838-uk-boe-gov-bailey-speaks
-URL:https://www.forexfactory.com/calendar/838-uk-boe-gov-bailey-speaks
-DTSTART;TZID=America/New_York:20261118T023000
-DTEND;TZID=America/New_York:20261118T023000
+UID:148300
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ US Prelim GDP Price Index q/q
+DESCRIPTION:Impact: Medium\n\nForecast: 2.3%\n\nPrevious: 2.3%\n\nView Even
+ t: https://www.forexfactory.com/calendar/45-us-prelim-gdp-price-index-qq
+URL:https://www.forexfactory.com/calendar/45-us-prelim-gdp-price-index-qq
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150562
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ EZ ECB Financial Stability Review
-DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
- ndar/616-ez-ecb-financial-stability-review
-URL:https://www.forexfactory.com/calendar/616-ez-ecb-financial-stability-re
- view
-DTSTART;TZID=America/New_York:20261118T040000
-DTEND;TZID=America/New_York:20261118T040000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:151462
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK HPI y/y
-DESCRIPTION:Impact: Low\n\nForecast: 0.7%\n\nPrevious: 0.9%\n\nView Event: 
- https://www.forexfactory.com/calendar/639-uk-hpi-yy
-URL:https://www.forexfactory.com/calendar/639-uk-hpi-yy
-DTSTART;TZID=America/New_York:20261118T043000
-DTEND;TZID=America/New_York:20261118T043000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:151330
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ EZ Final Core CPI y/y
-DESCRIPTION:Impact: Low\n\nForecast: 2.5%\n\nPrevious: 2.5%\n\nView Event: 
- https://www.forexfactory.com/calendar/167-ez-final-core-cpi-yy
-URL:https://www.forexfactory.com/calendar/167-ez-final-core-cpi-yy
-DTSTART;TZID=America/New_York:20261118T050000
-DTEND;TZID=America/New_York:20261118T050000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:151331
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ EZ Final CPI y/y
-DESCRIPTION:Impact: Low\n\nForecast: 4.0%\n\nPrevious: 4.0%\n\nView Event: 
- https://www.forexfactory.com/calendar/166-ez-final-cpi-yy
-URL:https://www.forexfactory.com/calendar/166-ez-final-cpi-yy
-DTSTART;TZID=America/New_York:20261118T050000
-DTEND;TZID=America/New_York:20261118T050000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149575
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CA NHPI m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.1%\n\nPrevious: -0.2%\n\nView Event:
-  https://www.forexfactory.com/calendar/259-ca-nhpi-mm
-URL:https://www.forexfactory.com/calendar/259-ca-nhpi-mm
-DTSTART;TZID=America/New_York:20261118T083000
-DTEND;TZID=America/New_York:20261118T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:146820
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Building Permits
-DESCRIPTION:Impact: Low\n\nForecast: 1.38M\n\nPrevious: 1.40M\n\nView Event
- : https://www.forexfactory.com/calendar/198-us-building-permits
-URL:https://www.forexfactory.com/calendar/198-us-building-permits
-DTSTART;TZID=America/New_York:20261118T083000
-DTEND;TZID=America/New_York:20261118T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:146844
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Housing Starts
-DESCRIPTION:Impact: Low\n\nForecast: 1.25M\n\nPrevious: 1.22M\n\nView Event
- : https://www.forexfactory.com/calendar/199-us-housing-starts
-URL:https://www.forexfactory.com/calendar/199-us-housing-starts
-DTSTART;TZID=America/New_York:20261118T083000
-DTEND;TZID=America/New_York:20261118T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155919
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ EZ ECB President Lagarde Speaks
-DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
- ndar/832-ez-ecb-president-lagarde-speaks
-URL:https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-spea
- ks
-DTSTART;TZID=America/New_York:20261118T092500
-DTEND;TZID=America/New_York:20261118T092500
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155898
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ UK BOE Gov Bailey Speaks
-DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
- ar/838-uk-boe-gov-bailey-speaks
-URL:https://www.forexfactory.com/calendar/838-uk-boe-gov-bailey-speaks
-DTSTART;TZID=America/New_York:20261118T100000
-DTEND;TZID=America/New_York:20261118T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149846
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Pending Home Sales m/m
-DESCRIPTION:Impact: Low\n\nForecast: -2.0%\n\nPrevious: -7.3%\n\nView Event
- : https://www.forexfactory.com/calendar/233-us-pending-home-sales-mm
-URL:https://www.forexfactory.com/calendar/233-us-pending-home-sales-mm
-DTSTART;TZID=America/New_York:20261118T100000
-DTEND;TZID=America/New_York:20261118T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:148962
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Crude Oil Inventories
-DESCRIPTION:Impact: Low\n\nForecast: 0.4M\n\nPrevious: 4.7M\n\nView Event: 
- https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
-URL:https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
-DTSTART;TZID=America/New_York:20261118T103000
-DTEND;TZID=America/New_York:20261118T103000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155976
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Daly Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/807-us-fomc-member-daly-speaks
-URL:https://www.forexfactory.com/calendar/807-us-fomc-member-daly-speaks
-DTSTART;TZID=America/New_York:20261118T121500
-DTEND;TZID=America/New_York:20261118T121500
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155908
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CA Gov Council Member Gravelle Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/835-ca-gov-council-member-gravelle-speaks
-URL:https://www.forexfactory.com/calendar/835-ca-gov-council-member-gravell
- e-speaks
-DTSTART;TZID=America/New_York:20261118T123000
-DTEND;TZID=America/New_York:20261118T123000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155899
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ NZ RBNZ Gov Breman Speaks
-DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
- ndar/927-nz-rbnz-gov-breman-speaks
-URL:https://www.forexfactory.com/calendar/927-nz-rbnz-gov-breman-speaks
-DTSTART;TZID=America/New_York:20261118T130000
-DTEND;TZID=America/New_York:20261118T130000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155911
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Barr Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/880-us-fomc-member-barr-speaks
-URL:https://www.forexfactory.com/calendar/880-us-fomc-member-barr-speaks
-DTSTART;TZID=America/New_York:20261118T133500
-DTEND;TZID=America/New_York:20261118T133500
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:146529
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ US FOMC Meeting Minutes
-DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
- ar/304-us-fomc-meeting-minutes
-URL:https://www.forexfactory.com/calendar/304-us-fomc-meeting-minutes
-DTSTART;TZID=America/New_York:20261118T140000
-DTEND;TZID=America/New_York:20261118T140000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155900
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Williams Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/518-us-fomc-member-williams-speaks
-URL:https://www.forexfactory.com/calendar/518-us-fomc-member-williams-speak
- s
-DTSTART;TZID=America/New_York:20261118T143000
-DTEND;TZID=America/New_York:20261118T143000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149822
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US TIC Long-Term Purchases
-DESCRIPTION:Impact: Low\n\nForecast: 160.7B\n\nPrevious: 279.2B\n\nView Eve
- nt: https://www.forexfactory.com/calendar/372-us-tic-long-term-purchases
-URL:https://www.forexfactory.com/calendar/372-us-tic-long-term-purchases
-DTSTART;TZID=America/New_York:20261118T160000
-DTEND;TZID=America/New_York:20261118T160000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155912
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Kashkari Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/651-us-fomc-member-kashkari-speaks
-URL:https://www.forexfactory.com/calendar/651-us-fomc-member-kashkari-speak
- s
-DTSTART;TZID=America/New_York:20261118T161500
-DTEND;TZID=America/New_York:20261118T161500
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149321
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ NZ Trade Balance
-DESCRIPTION:Impact: Low\n\nForecast: -1650M\n\nPrevious: -1971M\n\nView Eve
- nt: https://www.forexfactory.com/calendar/121-nz-trade-balance
-URL:https://www.forexfactory.com/calendar/121-nz-trade-balance
-DTSTART;TZID=America/New_York:20261118T164500
-DTEND;TZID=America/New_York:20261118T164500
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149540
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ JN Core Machinery Orders m/m
-DESCRIPTION:Impact: Low\n\nForecast: 1.3%\n\nPrevious: 5.2%\n\nView Event: 
- https://www.forexfactory.com/calendar/354-jn-core-machinery-orders-mm
-URL:https://www.forexfactory.com/calendar/354-jn-core-machinery-orders-mm
-DTSTART;TZID=America/New_York:20261118T185000
-DTEND;TZID=America/New_York:20261118T185000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:148150
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ AU Employment Change
-DESCRIPTION:Impact: High\n\nForecast: 25.5K\n\nPrevious: -39.3K\n\nView Eve
- nt: https://www.forexfactory.com/calendar/73-au-employment-change
-URL:https://www.forexfactory.com/calendar/73-au-employment-change
-DTSTART;TZID=America/New_York:20261118T193000
-DTEND;TZID=America/New_York:20261118T193000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:148151
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ AU Unemployment Rate
-DESCRIPTION:Impact: High\n\nForecast: 4.7%\n\nPrevious: 4.7%\n\nView Event:
-  https://www.forexfactory.com/calendar/64-au-unemployment-rate
-URL:https://www.forexfactory.com/calendar/64-au-unemployment-rate
-DTSTART;TZID=America/New_York:20261118T193000
-DTEND;TZID=America/New_York:20261118T193000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:154808
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ EZ Current Account
-DESCRIPTION:Impact: Low\n\nForecast: 16.6B\n\nPrevious: 8.7B\n\nView Event:
-  https://www.forexfactory.com/calendar/218-ez-current-account
-URL:https://www.forexfactory.com/calendar/218-ez-current-account
-DTSTART;TZID=America/New_York:20261119T040000
-DTEND;TZID=America/New_York:20261119T040000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:150471
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ GE Buba Monthly Report
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/581-ge-buba-monthly-report
-URL:https://www.forexfactory.com/calendar/581-ge-buba-monthly-report
-DTSTART;TZID=America/New_York:20261119T060000
-DTEND;TZID=America/New_York:20261119T060000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:150652
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK CBI Industrial Order Expectations
-DESCRIPTION:Impact: Low\n\nForecast: -29\n\nPrevious: -32\n\nView Event: ht
- tps://www.forexfactory.com/calendar/331-uk-cbi-industrial-order-expectatio
- ns
-URL:https://www.forexfactory.com/calendar/331-uk-cbi-industrial-order-expec
- tations
-DTSTART;TZID=America/New_York:20261119T060000
-DTEND;TZID=America/New_York:20261119T060000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155901
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK MPC Member Dhingra Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/875-uk-mpc-member-dhingra-speaks
-URL:https://www.forexfactory.com/calendar/875-uk-mpc-member-dhingra-speaks
-DTSTART;TZID=America/New_York:20261119T071500
-DTEND;TZID=America/New_York:20261119T071500
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149290
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CA IPPI m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.4%\n\nPrevious: 2.0%\n\nView Event: 
- https://www.forexfactory.com/calendar/90-ca-ippi-mm
-URL:https://www.forexfactory.com/calendar/90-ca-ippi-mm
-DTSTART;TZID=America/New_York:20261119T083000
-DTEND;TZID=America/New_York:20261119T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:149281
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CA RMPI m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.9%\n\nPrevious: 4.8%\n\nView Event: 
- https://www.forexfactory.com/calendar/91-ca-rmpi-mm
-URL:https://www.forexfactory.com/calendar/91-ca-rmpi-mm
-DTSTART;TZID=America/New_York:20261119T083000
-DTEND;TZID=America/New_York:20261119T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155902
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ EZ ECB President Lagarde Speaks
-DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
- ndar/832-ez-ecb-president-lagarde-speaks
-URL:https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-spea
- ks
-DTSTART;TZID=America/New_York:20261119T083000
-DTEND;TZID=America/New_York:20261119T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:146965
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ US Philly Fed Manufacturing Index
-DESCRIPTION:Impact: Medium\n\nForecast: 20.6\n\nPrevious: 20.9\n\nView Even
- t: https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-i
- ndex
-URL:https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-i
- ndex
-DTSTART;TZID=America/New_York:20261119T083000
-DTEND;TZID=America/New_York:20261119T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:147024
-DTSTAMP:20261120T195607Z
+UID:147025
+DTSTAMP:20261122T084218Z
 SUMMARY:⁑ US Unemployment Claims
-DESCRIPTION:Impact: Medium\n\nForecast: 198K\n\nPrevious: 200K\n\nView Even
+DESCRIPTION:Impact: Medium\n\nForecast: 201K\n\nPrevious: 203K\n\nView Even
  t: https://www.forexfactory.com/calendar/11-us-unemployment-claims
 URL:https://www.forexfactory.com/calendar/11-us-unemployment-claims
-DTSTART;TZID=America/New_York:20261119T083000
-DTEND;TZID=America/New_York:20261119T083000
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155903
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Hammack Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/913-us-fomc-member-hammack-speaks
-URL:https://www.forexfactory.com/calendar/913-us-fomc-member-hammack-speaks
-DTSTART;TZID=America/New_York:20261119T085000
-DTEND;TZID=America/New_York:20261119T085000
+UID:148188
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US Core Durable Goods Orders m/m
+DESCRIPTION:Impact: Low\n\nForecast: 0.5%\n\nPrevious: 0.5%\n\nView Event: 
+ https://www.forexfactory.com/calendar/350-us-core-durable-goods-orders-mm
+URL:https://www.forexfactory.com/calendar/350-us-core-durable-goods-orders-
+ mm
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155961
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Jefferson Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/881-us-fomc-member-jefferson-speaks
-URL:https://www.forexfactory.com/calendar/881-us-fomc-member-jefferson-spea
- ks
-DTSTART;TZID=America/New_York:20261119T092500
-DTEND;TZID=America/New_York:20261119T092500
+UID:148176
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US Durable Goods Orders m/m
+DESCRIPTION:Impact: Low\n\nForecast: 0.5%\n\nPrevious: 1.8%\n\nView Event: 
+ https://www.forexfactory.com/calendar/349-us-durable-goods-orders-mm
+URL:https://www.forexfactory.com/calendar/349-us-durable-goods-orders-mm
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149810
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US CB Leading Index m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.0%\n\nPrevious: 0.0%\n\nView Event: 
- https://www.forexfactory.com/calendar/297-us-cb-leading-index-mm
-URL:https://www.forexfactory.com/calendar/297-us-cb-leading-index-mm
-DTSTART;TZID=America/New_York:20261119T100000
-DTEND;TZID=America/New_York:20261119T100000
+UID:148249
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US Personal Income m/m
+DESCRIPTION:Impact: Low\n\nForecast: 0.4%\n\nPrevious: 0.2%\n\nView Event: 
+ https://www.forexfactory.com/calendar/360-us-personal-income-mm
+URL:https://www.forexfactory.com/calendar/360-us-personal-income-mm
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:148779
-DTSTAMP:20261120T195607Z
+UID:148261
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US Personal Spending m/m
+DESCRIPTION:Impact: Low\n\nForecast: 0.4%\n\nPrevious: 0.5%\n\nView Event: 
+ https://www.forexfactory.com/calendar/356-us-personal-spending-mm
+URL:https://www.forexfactory.com/calendar/356-us-personal-spending-mm
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:146858
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US New Home Sales
+DESCRIPTION:Impact: Low\n\nForecast: 649K\n\nPrevious: 676K\n\nView Event: 
+ https://www.forexfactory.com/calendar/231-us-new-home-sales
+URL:https://www.forexfactory.com/calendar/231-us-new-home-sales
+DTSTART;TZID=America/New_York:20261125T100000
+DTEND;TZID=America/New_York:20261125T100000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148963
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US Crude Oil Inventories
+DESCRIPTION:Impact: Low\n\nPrevious: 3.4M\n\nView Event: https://www.forexf
+ actory.com/calendar/10-us-crude-oil-inventories
+URL:https://www.forexfactory.com/calendar/10-us-crude-oil-inventories
+DTSTART;TZID=America/New_York:20261125T103000
+DTEND;TZID=America/New_York:20261125T103000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148780
+DTSTAMP:20261122T084218Z
 SUMMARY:⁎ US Natural Gas Storage
-DESCRIPTION:Impact: Low\n\nForecast: 25B\n\nPrevious: 61B\n\nView Event: ht
- tps://www.forexfactory.com/calendar/26-us-natural-gas-storage
+DESCRIPTION:Impact: Low\n\nPrevious: 20B\n\nView Event: https://www.forexfa
+ ctory.com/calendar/26-us-natural-gas-storage
 URL:https://www.forexfactory.com/calendar/26-us-natural-gas-storage
-DTSTART;TZID=America/New_York:20261119T103000
-DTEND;TZID=America/New_York:20261119T103000
+DTSTART;TZID=America/New_York:20261125T120000
+DTEND;TZID=America/New_York:20261125T120000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:146863
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US Mortgage Delinquencies
-DESCRIPTION:Impact: Low\n\nPrevious: 4.37%\n\nView Event: https://www.forex
- factory.com/calendar/489-us-mortgage-delinquencies
-URL:https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies
-DTSTART;TZID=America/New_York:20261119T104600
-DTEND;TZID=America/New_York:20261119T104600
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155904
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Goolsbee Speaks
+UID:148637
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US Beige Book
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/889-us-fomc-member-goolsbee-speaks
-URL:https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speak
- s
-DTSTART;TZID=America/New_York:20261119T123000
-DTEND;TZID=America/New_York:20261119T123000
+ r/241-us-beige-book
+URL:https://www.forexfactory.com/calendar/241-us-beige-book
+DTSTART;TZID=America/New_York:20261125T140000
+DTEND;TZID=America/New_York:20261125T140000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155913
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Barr Speaks
+UID:148318
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ AU Private Capital Expenditure q/q
+DESCRIPTION:Impact: Low\n\nForecast: 4.4%\n\nPrevious: -3.6%\n\nView Event:
+  https://www.forexfactory.com/calendar/381-au-private-capital-expenditure-
+ qq
+URL:https://www.forexfactory.com/calendar/381-au-private-capital-expenditur
+ e-qq
+DTSTART;TZID=America/New_York:20261125T193000
+DTEND;TZID=America/New_York:20261125T193000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148534
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ AU RBA Bulletin
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/880-us-fomc-member-barr-speaks
-URL:https://www.forexfactory.com/calendar/880-us-fomc-member-barr-speaks
-DTSTART;TZID=America/New_York:20261119T141500
-DTEND;TZID=America/New_York:20261119T141500
+ r/333-au-rba-bulletin
+URL:https://www.forexfactory.com/calendar/333-au-rba-bulletin
+DTSTART;TZID=America/New_York:20261125T193000
+DTEND;TZID=America/New_York:20261125T193000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155914
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Barkin Speaks
+UID:150483
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ GE GfK Consumer Climate
+DESCRIPTION:Impact: Low\n\nForecast: -29.4\n\nPrevious: -30.8\n\nView Event
+ : https://www.forexfactory.com/calendar/335-ge-gfk-consumer-climate
+URL:https://www.forexfactory.com/calendar/335-ge-gfk-consumer-climate
+DTSTART;TZID=America/New_York:20261126T020000
+DTEND;TZID=America/New_York:20261126T020000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:150587
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ EZ M3 Money Supply y/y
+DESCRIPTION:Impact: Low\n\nForecast: 3.5%\n\nPrevious: 3.5%\n\nView Event: 
+ https://www.forexfactory.com/calendar/375-ez-m3-money-supply-yy
+URL:https://www.forexfactory.com/calendar/375-ez-m3-money-supply-yy
+DTSTART;TZID=America/New_York:20261126T040000
+DTEND;TZID=America/New_York:20261126T040000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:150586
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ EZ Private Loans y/y
+DESCRIPTION:Impact: Low\n\nForecast: 3.2%\n\nPrevious: 3.1%\n\nView Event: 
+ https://www.forexfactory.com/calendar/365-ez-private-loans-yy
+URL:https://www.forexfactory.com/calendar/365-ez-private-loans-yy
+DTSTART;TZID=America/New_York:20261126T040000
+DTEND;TZID=America/New_York:20261126T040000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:150701
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ UK BOE Financial Stability Report
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/728-us-fomc-member-barkin-speaks
-URL:https://www.forexfactory.com/calendar/728-us-fomc-member-barkin-speaks
-DTSTART;TZID=America/New_York:20261119T160000
-DTEND;TZID=America/New_York:20261119T160000
+ r/422-uk-boe-financial-stability-report
+URL:https://www.forexfactory.com/calendar/422-uk-boe-financial-stability-re
+ port
+DTSTART;TZID=America/New_York:20261126T053000
+DTEND;TZID=America/New_York:20261126T053000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149920
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ JN National Core CPI y/y
-DESCRIPTION:Impact: Low\n\nForecast: 2.3%\n\nPrevious: 2.1%\n\nView Event: 
- https://www.forexfactory.com/calendar/174-jn-national-core-cpi-yy
-URL:https://www.forexfactory.com/calendar/174-jn-national-core-cpi-yy
-DTSTART;TZID=America/New_York:20261119T183000
-DTEND;TZID=America/New_York:20261119T183000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155905
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Paulson Speaks
+UID:150736
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ UK FPC Meeting Minutes
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/920-us-fomc-member-paulson-speaks
-URL:https://www.forexfactory.com/calendar/920-us-fomc-member-paulson-speaks
-DTSTART;TZID=America/New_York:20261119T183000
-DTEND;TZID=America/New_York:20261119T183000
+ r/606-uk-fpc-meeting-minutes
+URL:https://www.forexfactory.com/calendar/606-uk-fpc-meeting-minutes
+DTSTART;TZID=America/New_York:20261126T053000
+DTEND;TZID=America/New_York:20261126T053000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150688
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK GfK Consumer Confidence
-DESCRIPTION:Impact: Low\n\nForecast: -22\n\nPrevious: -24\n\nView Event: ht
- tps://www.forexfactory.com/calendar/188-uk-gfk-consumer-confidence
-URL:https://www.forexfactory.com/calendar/188-uk-gfk-consumer-confidence
-DTSTART;TZID=America/New_York:20261119T190100
-DTEND;TZID=America/New_York:20261119T190100
+UID:150737
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ UK FPC Statement
+DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
+ r/605-uk-fpc-statement
+URL:https://www.forexfactory.com/calendar/605-uk-fpc-statement
+DTSTART;TZID=America/New_York:20261126T053000
+DTEND;TZID=America/New_York:20261126T053000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150133
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CH 1-y Loan Prime Rate
-DESCRIPTION:Impact: Low\n\nForecast: 3.00%\n\nPrevious: 3.00%\n\nView Event
- : https://www.forexfactory.com/calendar/777-ch-1-y-loan-prime-rate
-URL:https://www.forexfactory.com/calendar/777-ch-1-y-loan-prime-rate
-DTSTART;TZID=America/New_York:20261119T200000
-DTEND;TZID=America/New_York:20261119T200000
+UID:150560
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ EZ ECB Monetary Policy Meeting Accounts
+DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
+ r/613-ez-ecb-monetary-policy-meeting-accounts
+URL:https://www.forexfactory.com/calendar/613-ez-ecb-monetary-policy-meetin
+ g-accounts
+DTSTART;TZID=America/New_York:20261126T073000
+DTEND;TZID=America/New_York:20261126T073000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:150134
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CH 5-y Loan Prime Rate
-DESCRIPTION:Impact: Low\n\nForecast: 3.50%\n\nPrevious: 3.50%\n\nView Event
- : https://www.forexfactory.com/calendar/898-ch-5-y-loan-prime-rate
-URL:https://www.forexfactory.com/calendar/898-ch-5-y-loan-prime-rate
-DTSTART;TZID=America/New_York:20261119T200000
-DTEND;TZID=America/New_York:20261119T200000
+UID:146480
+DTSTAMP:20261122T084218Z
+SUMMARY: US Bank Holiday
+DESCRIPTION:Impact: None\n\nView Event: https://www.forexfactory.com/calend
+ ar/370-us-bank-holiday
+URL:https://www.forexfactory.com/calendar/370-us-bank-holiday
+DTSTART;TZID=America/New_York:20261126T080000
+DTEND;TZID=America/New_York:20261126T080000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:148891
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ NZ Credit Card Spending y/y
-DESCRIPTION:Impact: Low\n\nPrevious: 6.9%\n\nView Event: https://www.forexf
- actory.com/calendar/184-nz-credit-card-spending-yy
-URL:https://www.forexfactory.com/calendar/184-nz-credit-card-spending-yy
-DTSTART;TZID=America/New_York:20261119T210000
-DTEND;TZID=America/New_York:20261119T210000
+UID:149932
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ JN Tokyo Core CPI y/y
+DESCRIPTION:Impact: Medium\n\nForecast: 2.9%\n\nPrevious: 2.6%\n\nView Even
+ t: https://www.forexfactory.com/calendar/175-jn-tokyo-core-cpi-yy
+URL:https://www.forexfactory.com/calendar/175-jn-tokyo-core-cpi-yy
+DTSTART;TZID=America/New_York:20261126T183000
+DTEND;TZID=America/New_York:20261126T183000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:151210
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ GE PPI m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.9%\n\nPrevious: 1.9%\n\nView Event: 
- https://www.forexfactory.com/calendar/88-ge-ppi-mm
-URL:https://www.forexfactory.com/calendar/88-ge-ppi-mm
-DTSTART;TZID=America/New_York:20261120T020000
-DTEND;TZID=America/New_York:20261120T020000
+UID:147589
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ FR Consumer Spending m/m
+DESCRIPTION:Impact: Low\n\nForecast: 0.2%\n\nPrevious: -0.5%\n\nView Event:
+  https://www.forexfactory.com/calendar/357-fr-consumer-spending-mm
+URL:https://www.forexfactory.com/calendar/357-fr-consumer-spending-mm
+DTSTART;TZID=America/New_York:20261127T024500
+DTEND;TZID=America/New_York:20261127T024500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:151612
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ UK Retail Sales m/m
-DESCRIPTION:Impact: Medium\n\nForecast: 0.0%\n\nPrevious: -0.4%\n\nView Eve
- nt: https://www.forexfactory.com/calendar/105-uk-retail-sales-mm
-URL:https://www.forexfactory.com/calendar/105-uk-retail-sales-mm
-DTSTART;TZID=America/New_York:20261120T020000
-DTEND;TZID=America/New_York:20261120T020000
+UID:151731
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ FR Final Private Payrolls q/q
+DESCRIPTION:Impact: Low\n\nForecast: -0.1%\n\nPrevious: -0.1%\n\nView Event
+ : https://www.forexfactory.com/calendar/71-fr-final-private-payrolls-qq
+URL:https://www.forexfactory.com/calendar/71-fr-final-private-payrolls-qq
+DTSTART;TZID=America/New_York:20261127T024500
+DTEND;TZID=America/New_York:20261127T024500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:151624
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ UK Public Sector Net Borrowing
-DESCRIPTION:Impact: Low\n\nForecast: 18.0B\n\nPrevious: 24.5B\n\nView Event
- : https://www.forexfactory.com/calendar/342-uk-public-sector-net-borrowing
-URL:https://www.forexfactory.com/calendar/342-uk-public-sector-net-borrowin
- g
-DTSTART;TZID=America/New_York:20261120T020000
-DTEND;TZID=America/New_York:20261120T020000
+UID:147556
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ FR Prelim CPI m/m
+DESCRIPTION:Impact: Low\n\nForecast: -0.1%\n\nPrevious: 0.4%\n\nView Event:
+  https://www.forexfactory.com/calendar/556-fr-prelim-cpi-mm
+URL:https://www.forexfactory.com/calendar/556-fr-prelim-cpi-mm
+DTSTART;TZID=America/New_York:20261127T024500
+DTEND;TZID=America/New_York:20261127T024500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155906
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ EZ ECB President Lagarde Speaks
-DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
- ndar/832-ez-ecb-president-lagarde-speaks
-URL:https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-spea
- ks
-DTSTART;TZID=America/New_York:20261120T031500
-DTEND;TZID=America/New_York:20261120T031500
+UID:151743
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ FR Prelim GDP q/q
+DESCRIPTION:Impact: Low\n\nForecast: -0.1%\n\nPrevious: -0.1%\n\nView Event
+ : https://www.forexfactory.com/calendar/39-fr-prelim-gdp-qq
+URL:https://www.forexfactory.com/calendar/39-fr-prelim-gdp-qq
+DTSTART;TZID=America/New_York:20261127T024500
+DTEND;TZID=America/New_York:20261127T024500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155907
-DTSTAMP:20261120T195607Z
+UID:147508
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ SP Flash CPI y/y
+DESCRIPTION:Impact: Low\n\nForecast: 4.8%\n\nPrevious: 4.9%\n\nView Event: 
+ https://www.forexfactory.com/calendar/592-sp-flash-cpi-yy
+URL:https://www.forexfactory.com/calendar/592-sp-flash-cpi-yy
+DTSTART;TZID=America/New_York:20261127T030000
+DTEND;TZID=America/New_York:20261127T030000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:150520
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ GE Unemployment Change
+DESCRIPTION:Impact: Low\n\nForecast: 5K\n\nPrevious: 4K\n\nView Event: http
+ s://www.forexfactory.com/calendar/60-ge-unemployment-change
+URL:https://www.forexfactory.com/calendar/60-ge-unemployment-change
+DTSTART;TZID=America/New_York:20261127T035500
+DTEND;TZID=America/New_York:20261127T035500
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:147705
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ IT 10-y Bond Auction
+DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
+ r/524-it-10-y-bond-auction
+URL:https://www.forexfactory.com/calendar/524-it-10-y-bond-auction
+DTSTART;TZID=America/New_York:20261127T053300
+DTEND;TZID=America/New_York:20261127T053300
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:156631
+DTSTAMP:20261122T084218Z
 SUMMARY:⁎ GE Buba President Nagel Speaks
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/851-ge-buba-president-nagel-speaks
 URL:https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speak
  s
-DTSTART;TZID=America/New_York:20261120T080000
-DTEND;TZID=America/New_York:20261120T080000
+DTSTART;TZID=America/New_York:20261127T074000
+DTEND;TZID=America/New_York:20261127T074000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:155917
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Waller Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/839-us-fomc-member-waller-speaks
-URL:https://www.forexfactory.com/calendar/839-us-fomc-member-waller-speaks
-DTSTART;TZID=America/New_York:20261120T082500
-DTEND;TZID=America/New_York:20261120T082500
+UID:149261
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ CA Current Account
+DESCRIPTION:Impact: Low\n\nForecast: 9.6B\n\nPrevious: 8.8B\n\nView Event: 
+ https://www.forexfactory.com/calendar/196-ca-current-account
+URL:https://www.forexfactory.com/calendar/196-ca-current-account
+DTSTART;TZID=America/New_York:20261127T083000
+DTEND;TZID=America/New_York:20261127T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149220
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CA Core Retail Sales m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.7%\n\nPrevious: 1.2%\n\nView Event: 
- https://www.forexfactory.com/calendar/103-ca-core-retail-sales-mm
-URL:https://www.forexfactory.com/calendar/103-ca-core-retail-sales-mm
-DTSTART;TZID=America/New_York:20261120T083000
-DTEND;TZID=America/New_York:20261120T083000
+UID:148213
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US Goods Trade Balance
+DESCRIPTION:Impact: Low\n\nForecast: -134.4B\n\nPrevious: -134.9B\n\nView E
+ vent: https://www.forexfactory.com/calendar/625-us-goods-trade-balance
+URL:https://www.forexfactory.com/calendar/625-us-goods-trade-balance
+DTSTART;TZID=America/New_York:20261127T083000
+DTEND;TZID=America/New_York:20261127T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149211
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ CA Retail Sales m/m
-DESCRIPTION:Impact: Low\n\nForecast: 0.7%\n\nPrevious: 1.2%\n\nView Event: 
- https://www.forexfactory.com/calendar/104-ca-retail-sales-mm
-URL:https://www.forexfactory.com/calendar/104-ca-retail-sales-mm
-DTSTART;TZID=America/New_York:20261120T083000
-DTEND;TZID=America/New_York:20261120T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:150610
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ EZ Consumer Confidence
-DESCRIPTION:Impact: Low\n\nForecast: -18\n\nPrevious: -18\n\nView Event: ht
- tps://www.forexfactory.com/calendar/336-ez-consumer-confidence
-URL:https://www.forexfactory.com/calendar/336-ez-consumer-confidence
-DTSTART;TZID=America/New_York:20261120T100000
-DTEND;TZID=America/New_York:20261120T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:148604
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ US Revised UoM Consumer Sentiment
-DESCRIPTION:Impact: Medium\n\nForecast: 51.7\n\nPrevious: 51.0\n\nView Even
- t: https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentim
- ent
-URL:https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentim
- ent
-DTSTART;TZID=America/New_York:20261120T100000
-DTEND;TZID=America/New_York:20261120T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:148616
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ US Revised UoM Inflation Expectations
-DESCRIPTION:Impact: Medium\n\nPrevious: 4.3%\n\nView Event: https://www.for
- exfactory.com/calendar/238-us-revised-uom-inflation-expectations
-URL:https://www.forexfactory.com/calendar/238-us-revised-uom-inflation-expe
- ctations
-DTSTART;TZID=America/New_York:20261120T100000
-DTEND;TZID=America/New_York:20261120T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:156834
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ US President Trump Speaks
-DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
- ndar/645-us-president-trump-speaks
-URL:https://www.forexfactory.com/calendar/645-us-president-trump-speaks
-DTSTART;TZID=America/New_York:20261120T120000
-DTEND;TZID=America/New_York:20261120T120000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:155918
-DTSTAMP:20261120T195607Z
-SUMMARY:⁎ US FOMC Member Cook Speaks
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/886-us-fomc-member-cook-speaks
-URL:https://www.forexfactory.com/calendar/886-us-fomc-member-cook-speaks
-DTSTART;TZID=America/New_York:20261120T121500
-DTEND;TZID=America/New_York:20261120T121500
+UID:148225
+DTSTAMP:20261122T084218Z
+SUMMARY:⁎ US Prelim Wholesale Inventories m/m
+DESCRIPTION:Impact: Low\n\nForecast: 0.7%\n\nPrevious: 0.6%\n\nView Event: 
+ https://www.forexfactory.com/calendar/642-us-prelim-wholesale-inventories-
+ mm
+URL:https://www.forexfactory.com/calendar/642-us-prelim-wholesale-inventori
+ es-mm
+DTSTART;TZID=America/New_York:20261127T083000
+DTEND;TZID=America/New_York:20261127T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M

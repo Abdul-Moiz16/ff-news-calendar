@@ -26,152 +26,112 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:155893
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ US Fed Chairman Warsh Speaks
-DESCRIPTION:Impact: High\n\nXAUUSD: no number to compare. Hawkish tone (rat
- es higher for longer) -> USD up, gold bearish. Dovish tone -> gold bullish
- .\n\nView Event: https://www.forexfactory.com/calendar/129-us-fed-chairman
- -warsh-speaks
-URL:https://www.forexfactory.com/calendar/129-us-fed-chairman-warsh-speaks
-DTSTART;TZID=America/New_York:20261116T120000
-DTEND;TZID=America/New_York:20261116T120000
+UID:149772
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ US Flash Manufacturing PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 54.5\n\nPrevious: 56.0\n\nXAUUSD: a
+ ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
+ -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
+ alendar/552-us-flash-manufacturing-pmi
+URL:https://www.forexfactory.com/calendar/552-us-flash-manufacturing-pmi
+DTSTART;TZID=America/New_York:20261123T094500
+DTEND;TZID=America/New_York:20261123T094500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:148047
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ US Core Retail Sales m/m | gold bearish
-DESCRIPTION:Impact: High\n\nActual: 0.6%\n\nForecast: 0.4%\n\nPrevious: 0.9
- %\n\nRESULT: actual 0.6% above forecast 0.4% -> good for USD -> XAUUSD BEA
- RISH.\n\nView Event: https://www.forexfactory.com/calendar/112-us-core-ret
- ail-sales-mm\n\nActual from biquote.io
-URL:https://www.forexfactory.com/calendar/112-us-core-retail-sales-mm
-DTSTART;TZID=America/New_York:20261117T083000
-DTEND;TZID=America/New_York:20261117T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:148035
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ US Retail Sales m/m | gold bearish
-DESCRIPTION:Impact: High\n\nActual: 0.2%\n\nForecast: 0.1%\n\nPrevious: 0.8
- %\n\nRESULT: actual 0.2% above forecast 0.1% -> good for USD -> XAUUSD BEA
- RISH.\n\nView Event: https://www.forexfactory.com/calendar/102-us-retail-s
- ales-mm\n\nActual from biquote.io
-URL:https://www.forexfactory.com/calendar/102-us-retail-sales-mm
-DTSTART;TZID=America/New_York:20261117T083000
-DTEND;TZID=America/New_York:20261117T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:146529
-DTSTAMP:20261120T195607Z
-SUMMARY:⁂ US FOMC Meeting Minutes
-DESCRIPTION:Impact: High\n\nXAUUSD: no number to compare. Hawkish tone (rat
- es higher for longer) -> USD up, gold bearish. Dovish tone -> gold bullish
- .\n\nView Event: https://www.forexfactory.com/calendar/304-us-fomc-meeting
- -minutes
-URL:https://www.forexfactory.com/calendar/304-us-fomc-meeting-minutes
-DTSTART;TZID=America/New_York:20261118T140000
-DTEND;TZID=America/New_York:20261118T140000
+UID:149784
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ US Flash Services PMI
+DESCRIPTION:Impact: Medium\n\nForecast: 55.6\n\nPrevious: 57.9\n\nXAUUSD: a
+ ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
+ -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
+ alendar/583-us-flash-services-pmi
+URL:https://www.forexfactory.com/calendar/583-us-flash-services-pmi
+DTSTART;TZID=America/New_York:20261123T094500
+DTEND;TZID=America/New_York:20261123T094500
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:146965
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ US Philly Fed Manufacturing Index | gold bullish
-DESCRIPTION:Impact: Medium\n\nActual: 6.3\n\nForecast: 20.6\n\nPrevious: 20
- .9\n\nRESULT: actual 6.3 below forecast 20.6 -> bad for USD -> XAUUSD BULL
- ISH.\n\nView Event: https://www.forexfactory.com/calendar/325-us-philly-fe
- d-manufacturing-index\n\nActual from biquote.io
-URL:https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-i
- ndex
-DTSTART;TZID=America/New_York:20261119T083000
-DTEND;TZID=America/New_York:20261119T083000
+UID:146888
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ US CB Consumer Confidence
+DESCRIPTION:Impact: Medium\n\nForecast: 92.1\n\nPrevious: 91.7\n\nXAUUSD: a
+ ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
+ -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
+ alendar/208-us-cb-consumer-confidence
+URL:https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence
+DTSTART;TZID=America/New_York:20261124T100000
+DTEND;TZID=America/New_York:20261124T100000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
-SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
-UID:147024
-DTSTAMP:20261120T195607Z
+UID:148237
+DTSTAMP:20261122T084218Z
+SUMMARY:⁂ US Core PCE Price Index m/m
+DESCRIPTION:Impact: High\n\nForecast: 0.3%\n\nPrevious: 0.3%\n\nXAUUSD: act
+ ual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast ->
+  USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/cal
+ endar/85-us-core-pce-price-index-mm
+URL:https://www.forexfactory.com/calendar/85-us-core-pce-price-index-mm
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148292
+DTSTAMP:20261122T084218Z
+SUMMARY:⁂ US Prelim GDP q/q
+DESCRIPTION:Impact: High\n\nForecast: 3.5%\n\nPrevious: 3.4%\n\nXAUUSD: act
+ ual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast ->
+  USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/cal
+ endar/27-us-prelim-gdp-qq
+URL:https://www.forexfactory.com/calendar/27-us-prelim-gdp-qq
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148300
+DTSTAMP:20261122T084218Z
+SUMMARY:⁑ US Prelim GDP Price Index q/q
+DESCRIPTION:Impact: Medium\n\nForecast: 2.3%\n\nPrevious: 2.3%\n\nXAUUSD: a
+ ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
+ -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
+ alendar/45-us-prelim-gdp-price-index-qq
+URL:https://www.forexfactory.com/calendar/45-us-prelim-gdp-price-index-qq
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:147025
+DTSTAMP:20261122T084218Z
 SUMMARY:⁑ US Unemployment Claims
-DESCRIPTION:Impact: Medium\n\nForecast: 198K\n\nPrevious: 200K\n\nXAUUSD: a
+DESCRIPTION:Impact: Medium\n\nForecast: 201K\n\nPrevious: 203K\n\nXAUUSD: a
  ctual BELOW forecast -> USD stronger, gold bearish. Actual ABOVE forecast 
  -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
  alendar/11-us-unemployment-claims
 URL:https://www.forexfactory.com/calendar/11-us-unemployment-claims
-DTSTART;TZID=America/New_York:20261119T083000
-DTEND;TZID=America/New_York:20261119T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:148604
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ US Revised UoM Consumer Sentiment | gold bullish
-DESCRIPTION:Impact: Medium\n\nActual: 51.5\n\nForecast: 51.7\n\nPrevious: 5
- 1.0\n\nRESULT: actual 51.5 below forecast 51.7 -> bad for USD -> XAUUSD BU
- LLISH.\n\nView Event: https://www.forexfactory.com/calendar/54-us-revised-
- uom-consumer-sentiment\n\nActual from biquote.io
-URL:https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentim
- ent
-DTSTART;TZID=America/New_York:20261120T100000
-DTEND;TZID=America/New_York:20261120T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:148616
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ US Revised UoM Inflation Expectations | gold bullish
-DESCRIPTION:Impact: Medium\n\nActual: 3.7%\n\nForecast: 4.3% (biquote)\n\nP
- revious: 4.3%\n\nRESULT: actual 3.7% below forecast 4.3% -> bad for USD ->
-  XAUUSD BULLISH.\n\nView Event: https://www.forexfactory.com/calendar/238-
- us-revised-uom-inflation-expectations\n\nActual from biquote.io
-URL:https://www.forexfactory.com/calendar/238-us-revised-uom-inflation-expe
- ctations
-DTSTART;TZID=America/New_York:20261120T100000
-DTEND;TZID=America/New_York:20261120T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-UID:156834
-DTSTAMP:20261120T195607Z
-SUMMARY:⁑ US President Trump Speaks
-DESCRIPTION:Impact: Medium\n\nXAUUSD: no number to compare. Hawkish tone (r
- ates higher for longer) -> USD up, gold bearish. Dovish tone -> gold bulli
- sh.\n\nView Event: https://www.forexfactory.com/calendar/645-us-president-
- trump-speaks
-URL:https://www.forexfactory.com/calendar/645-us-president-trump-speaks
-DTSTART;TZID=America/New_York:20261120T120000
-DTEND;TZID=America/New_York:20261120T120000
+DTSTART;TZID=America/New_York:20261125T083000
+DTEND;TZID=America/New_York:20261125T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
