@@ -4,7 +4,7 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:150011
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ NZ Core Retail Sales q/q
 DESCRIPTION:Impact: Low\n\nForecast: 0.8%\n\nPrevious: 0.7%\n\nView Event: 
  https://www.forexfactory.com/calendar/511-nz-core-retail-sales-qq
@@ -18,7 +18,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150010
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ NZ Retail Sales q/q
 DESCRIPTION:Impact: Low\n\nForecast: 0.5%\n\nPrevious: -0.5%\n\nView Event:
   https://www.forexfactory.com/calendar/510-nz-retail-sales-qq
@@ -32,7 +32,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150917
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ AU Flash Manufacturing PMI
 DESCRIPTION:Impact: Low\n\nPrevious: 49.7\n\nView Event: https://www.forexf
  actory.com/calendar/817-au-flash-manufacturing-pmi
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150918
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ AU Flash Services PMI
 DESCRIPTION:Impact: Low\n\nPrevious: 47.8\n\nView Event: https://www.forexf
  actory.com/calendar/818-au-flash-services-pmi
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147468
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY: JN Bank Holiday
 DESCRIPTION:Impact: None\n\nView Event: https://www.forexfactory.com/calend
  ar/393-jn-bank-holiday
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147679
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ FR Flash Manufacturing PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 49.8\n\nPrevious: 49.3\n\nView Even
  t: https://www.forexfactory.com/calendar/268-fr-flash-manufacturing-pmi
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147680
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ FR Flash Services PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 47.4\n\nPrevious: 48.4\n\nView Even
  t: https://www.forexfactory.com/calendar/269-fr-flash-services-pmi
@@ -102,7 +102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147681
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ GE Flash Manufacturing PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 54.1\n\nPrevious: 54.2\n\nView Even
  t: https://www.forexfactory.com/calendar/266-ge-flash-manufacturing-pmi
@@ -116,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147682
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ GE Flash Services PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 52.4\n\nPrevious: 51.7\n\nView Even
  t: https://www.forexfactory.com/calendar/267-ge-flash-services-pmi
@@ -130,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147684
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ EZ Flash Manufacturing PMI
 DESCRIPTION:Impact: Low\n\nForecast: 52.7\n\nPrevious: 52.4\n\nView Event: 
  https://www.forexfactory.com/calendar/263-ez-flash-manufacturing-pmi
@@ -144,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147683
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ EZ Flash Services PMI
 DESCRIPTION:Impact: Low\n\nForecast: 51.8\n\nPrevious: 51.7\n\nView Event: 
  https://www.forexfactory.com/calendar/244-ez-flash-services-pmi
@@ -158,7 +158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147685
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ UK Flash Manufacturing PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 53.0\n\nPrevious: 52.8\n\nView Even
  t: https://www.forexfactory.com/calendar/837-uk-flash-manufacturing-pmi
@@ -172,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147686
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ UK Flash Services PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 53.0\n\nPrevious: 53.1\n\nView Even
  t: https://www.forexfactory.com/calendar/836-uk-flash-services-pmi
@@ -186,7 +186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:156627
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ UK MPC Member Pill Speaks
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/850-uk-mpc-member-pill-speaks
@@ -200,10 +200,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149273
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ CA Corporate Profits q/q
-DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
- r/379-ca-corporate-profits-qq
+DESCRIPTION:Impact: Low\n\nPrevious: 8.7%\n\nView Event: https://www.forexf
+ actory.com/calendar/379-ca-corporate-profits-qq
 URL:https://www.forexfactory.com/calendar/379-ca-corporate-profits-qq
 DTSTART;TZID=America/New_York:20261123T083000
 DTEND;TZID=America/New_York:20261123T083000
@@ -214,7 +214,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149772
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ US Flash Manufacturing PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 54.5\n\nPrevious: 56.0\n\nView Even
  t: https://www.forexfactory.com/calendar/552-us-flash-manufacturing-pmi
@@ -228,7 +228,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149784
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ US Flash Services PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 55.6\n\nPrevious: 57.9\n\nView Even
  t: https://www.forexfactory.com/calendar/583-us-flash-services-pmi
@@ -242,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:156628
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US FOMC Member Williams Speaks
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/518-us-fomc-member-williams-speaks
@@ -257,7 +257,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150931
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ JN Flash Manufacturing PMI
 DESCRIPTION:Impact: Low\n\nForecast: 53.5\n\nPrevious: 53.3\n\nView Event: 
  https://www.forexfactory.com/calendar/595-jn-flash-manufacturing-pmi
@@ -271,7 +271,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150216
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ CH Foreign Direct Investment ytd/y
 DESCRIPTION:Impact: Low\n\nPrevious: -4.3%\n\nView Event: https://www.forex
  factory.com/calendar/457-ch-foreign-direct-investment-ytdy
@@ -286,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150436
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ GE ifo Business Climate
 DESCRIPTION:Impact: Low\n\nForecast: 90.6\n\nPrevious: 90.2\n\nView Event: 
  https://www.forexfactory.com/calendar/316-ge-ifo-business-climate
@@ -300,7 +300,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150664
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ UK CBI Realized Sales
 DESCRIPTION:Impact: Low\n\nForecast: -24\n\nPrevious: -10\n\nView Event: ht
  tps://www.forexfactory.com/calendar/329-uk-cbi-realized-sales
@@ -314,7 +314,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:156629
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ UK MPC Member Greene Speaks
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/894-uk-mpc-member-greene-speaks
@@ -328,7 +328,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:151054
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US ADP Weekly Employment Change
 DESCRIPTION:Impact: Low\n\nPrevious: 23.8K\n\nView Event: https://www.forex
  factory.com/calendar/929-us-adp-weekly-employment-change
@@ -343,7 +343,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:151699
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ CH CB Leading Index m/m
 DESCRIPTION:Impact: Low\n\nPrevious: -0.1%\n\nView Event: https://www.forex
  factory.com/calendar/495-ch-cb-leading-index-mm
@@ -357,7 +357,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:151396
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ BE NBB Business Climate
 DESCRIPTION:Impact: Low\n\nForecast: -9.3\n\nPrevious: -9.8\n\nView Event: 
  https://www.forexfactory.com/calendar/317-be-nbb-business-climate
@@ -371,7 +371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148672
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US HPI m/m
 DESCRIPTION:Impact: Low\n\nForecast: 0.2%\n\nPrevious: 0.3%\n\nView Event: 
  https://www.forexfactory.com/calendar/239-us-hpi-mm
@@ -385,7 +385,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148660
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US S&P/CS Composite-20 HPI y/y
 DESCRIPTION:Impact: Low\n\nForecast: 2.7%\n\nPrevious: 2.7%\n\nView Event: 
  https://www.forexfactory.com/calendar/240-us-spcs-composite-20-hpi-yy
@@ -399,7 +399,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:146888
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ US CB Consumer Confidence
 DESCRIPTION:Impact: Medium\n\nForecast: 92.1\n\nPrevious: 91.7\n\nView Even
  t: https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence
@@ -413,7 +413,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:146977
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Richmond Manufacturing Index
 DESCRIPTION:Impact: Low\n\nForecast: -3\n\nPrevious: -2\n\nView Event: http
  s://www.forexfactory.com/calendar/186-us-richmond-manufacturing-index
@@ -428,7 +428,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:156630
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ CA BOC Gov Macklem Speaks
 DESCRIPTION:Impact: Medium\n\nView Event: https://www.forexfactory.com/cale
  ndar/840-ca-boc-gov-macklem-speaks
@@ -442,7 +442,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147101
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US API Weekly Statistical Bulletin
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/754-us-api-weekly-statistical-bulletin
@@ -457,7 +457,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149956
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ JN SPPI y/y
 DESCRIPTION:Impact: Low\n\nForecast: 3.6%\n\nPrevious: 3.7%\n\nView Event: 
  https://www.forexfactory.com/calendar/176-jn-sppi-yy
@@ -471,7 +471,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:152602
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁂ AU CPI m/m
 DESCRIPTION:Impact: High\n\nForecast: 0.4%\n\nPrevious: 0.8%\n\nView Event:
   https://www.forexfactory.com/calendar/98-au-cpi-mm
@@ -485,7 +485,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149102
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁂ AU CPI y/y
 DESCRIPTION:Impact: High\n\nForecast: 4.8%\n\nPrevious: 4.3%\n\nView Event:
   https://www.forexfactory.com/calendar/888-au-cpi-yy
@@ -499,7 +499,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:152603
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁂ AU Trimmed Mean CPI m/m
 DESCRIPTION:Impact: High\n\nForecast: 0.3%\n\nPrevious: 0.3%\n\nView Event:
   https://www.forexfactory.com/calendar/99-au-trimmed-mean-cpi-mm
@@ -513,7 +513,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148366
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ AU Construction Work Done q/q
 DESCRIPTION:Impact: Low\n\nForecast: 0.8%\n\nPrevious: -2.1%\n\nView Event:
   https://www.forexfactory.com/calendar/213-au-construction-work-done-qq
@@ -527,7 +527,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149908
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ JN BOJ Core CPI y/y
 DESCRIPTION:Impact: Low\n\nForecast: 2.5%\n\nPrevious: 2.4%\n\nView Event: 
  https://www.forexfactory.com/calendar/631-jn-boj-core-cpi-yy
@@ -541,7 +541,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:151211
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ GE Final GDP q/q
 DESCRIPTION:Impact: Low\n\nForecast: 0.2%\n\nPrevious: 0.2%\n\nView Event: 
  https://www.forexfactory.com/calendar/77-ge-final-gdp-qq
@@ -555,7 +555,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147381
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ SZ UBS Economic Expectations
 DESCRIPTION:Impact: Low\n\nPrevious: -15.3\n\nView Event: https://www.forex
  factory.com/calendar/315-sz-ubs-economic-expectations
@@ -569,7 +569,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150455
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ GE 10-y Bond Auction
 DESCRIPTION:Impact: Low\n\nPrevious: 3.37|1.1\n\nView Event: https://www.fo
  rexfactory.com/calendar/522-ge-10-y-bond-auction
@@ -583,7 +583,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148237
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁂ US Core PCE Price Index m/m
 DESCRIPTION:Impact: High\n\nForecast: 0.3%\n\nPrevious: 0.3%\n\nView Event:
   https://www.forexfactory.com/calendar/85-us-core-pce-price-index-mm
@@ -597,7 +597,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148292
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁂ US Prelim GDP q/q
 DESCRIPTION:Impact: High\n\nForecast: 3.5%\n\nPrevious: 3.4%\n\nView Event:
   https://www.forexfactory.com/calendar/27-us-prelim-gdp-qq
@@ -611,7 +611,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148300
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ US Prelim GDP Price Index q/q
 DESCRIPTION:Impact: Medium\n\nForecast: 2.3%\n\nPrevious: 2.3%\n\nView Even
  t: https://www.forexfactory.com/calendar/45-us-prelim-gdp-price-index-qq
@@ -625,7 +625,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147025
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ US Unemployment Claims
 DESCRIPTION:Impact: Medium\n\nForecast: 201K\n\nPrevious: 203K\n\nView Even
  t: https://www.forexfactory.com/calendar/11-us-unemployment-claims
@@ -639,7 +639,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148188
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Core Durable Goods Orders m/m
 DESCRIPTION:Impact: Low\n\nForecast: 0.5%\n\nPrevious: 0.5%\n\nView Event: 
  https://www.forexfactory.com/calendar/350-us-core-durable-goods-orders-mm
@@ -654,7 +654,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148176
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Durable Goods Orders m/m
 DESCRIPTION:Impact: Low\n\nForecast: 0.5%\n\nPrevious: 1.8%\n\nView Event: 
  https://www.forexfactory.com/calendar/349-us-durable-goods-orders-mm
@@ -668,7 +668,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148249
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Personal Income m/m
 DESCRIPTION:Impact: Low\n\nForecast: 0.4%\n\nPrevious: 0.2%\n\nView Event: 
  https://www.forexfactory.com/calendar/360-us-personal-income-mm
@@ -682,7 +682,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148261
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Personal Spending m/m
 DESCRIPTION:Impact: Low\n\nForecast: 0.4%\n\nPrevious: 0.5%\n\nView Event: 
  https://www.forexfactory.com/calendar/356-us-personal-spending-mm
@@ -696,7 +696,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:146858
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US New Home Sales
 DESCRIPTION:Impact: Low\n\nForecast: 649K\n\nPrevious: 676K\n\nView Event: 
  https://www.forexfactory.com/calendar/231-us-new-home-sales
@@ -710,7 +710,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148963
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Crude Oil Inventories
 DESCRIPTION:Impact: Low\n\nPrevious: 3.4M\n\nView Event: https://www.forexf
  actory.com/calendar/10-us-crude-oil-inventories
@@ -724,7 +724,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148780
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Natural Gas Storage
 DESCRIPTION:Impact: Low\n\nPrevious: 20B\n\nView Event: https://www.forexfa
  ctory.com/calendar/26-us-natural-gas-storage
@@ -738,7 +738,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148637
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Beige Book
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/241-us-beige-book
@@ -752,7 +752,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148318
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ AU Private Capital Expenditure q/q
 DESCRIPTION:Impact: Low\n\nForecast: 4.4%\n\nPrevious: -3.6%\n\nView Event:
   https://www.forexfactory.com/calendar/381-au-private-capital-expenditure-
@@ -768,7 +768,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148534
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ AU RBA Bulletin
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/333-au-rba-bulletin
@@ -782,7 +782,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150483
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ GE GfK Consumer Climate
 DESCRIPTION:Impact: Low\n\nForecast: -29.4\n\nPrevious: -30.8\n\nView Event
  : https://www.forexfactory.com/calendar/335-ge-gfk-consumer-climate
@@ -796,7 +796,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150587
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ EZ M3 Money Supply y/y
 DESCRIPTION:Impact: Low\n\nForecast: 3.5%\n\nPrevious: 3.5%\n\nView Event: 
  https://www.forexfactory.com/calendar/375-ez-m3-money-supply-yy
@@ -810,7 +810,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150586
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ EZ Private Loans y/y
 DESCRIPTION:Impact: Low\n\nForecast: 3.2%\n\nPrevious: 3.1%\n\nView Event: 
  https://www.forexfactory.com/calendar/365-ez-private-loans-yy
@@ -824,7 +824,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150701
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ UK BOE Financial Stability Report
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/422-uk-boe-financial-stability-report
@@ -839,7 +839,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150736
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ UK FPC Meeting Minutes
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/606-uk-fpc-meeting-minutes
@@ -853,7 +853,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150737
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ UK FPC Statement
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/605-uk-fpc-statement
@@ -867,7 +867,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150560
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ EZ ECB Monetary Policy Meeting Accounts
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/613-ez-ecb-monetary-policy-meeting-accounts
@@ -882,7 +882,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:146480
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY: US Bank Holiday
 DESCRIPTION:Impact: None\n\nView Event: https://www.forexfactory.com/calend
  ar/370-us-bank-holiday
@@ -896,7 +896,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149932
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁑ JN Tokyo Core CPI y/y
 DESCRIPTION:Impact: Medium\n\nForecast: 2.9%\n\nPrevious: 2.6%\n\nView Even
  t: https://www.forexfactory.com/calendar/175-jn-tokyo-core-cpi-yy
@@ -910,7 +910,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147589
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ FR Consumer Spending m/m
 DESCRIPTION:Impact: Low\n\nForecast: 0.2%\n\nPrevious: -0.5%\n\nView Event:
   https://www.forexfactory.com/calendar/357-fr-consumer-spending-mm
@@ -924,7 +924,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:151731
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ FR Final Private Payrolls q/q
 DESCRIPTION:Impact: Low\n\nForecast: -0.1%\n\nPrevious: -0.1%\n\nView Event
  : https://www.forexfactory.com/calendar/71-fr-final-private-payrolls-qq
@@ -938,7 +938,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147556
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ FR Prelim CPI m/m
 DESCRIPTION:Impact: Low\n\nForecast: -0.1%\n\nPrevious: 0.4%\n\nView Event:
   https://www.forexfactory.com/calendar/556-fr-prelim-cpi-mm
@@ -952,7 +952,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:151743
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ FR Prelim GDP q/q
 DESCRIPTION:Impact: Low\n\nForecast: -0.1%\n\nPrevious: -0.1%\n\nView Event
  : https://www.forexfactory.com/calendar/39-fr-prelim-gdp-qq
@@ -966,7 +966,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147508
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ SP Flash CPI y/y
 DESCRIPTION:Impact: Low\n\nForecast: 4.8%\n\nPrevious: 4.9%\n\nView Event: 
  https://www.forexfactory.com/calendar/592-sp-flash-cpi-yy
@@ -980,7 +980,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:150520
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ GE Unemployment Change
 DESCRIPTION:Impact: Low\n\nForecast: 5K\n\nPrevious: 4K\n\nView Event: http
  s://www.forexfactory.com/calendar/60-ge-unemployment-change
@@ -994,7 +994,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:147705
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ IT 10-y Bond Auction
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/524-it-10-y-bond-auction
@@ -1008,7 +1008,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:156631
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ GE Buba President Nagel Speaks
 DESCRIPTION:Impact: Low\n\nView Event: https://www.forexfactory.com/calenda
  r/851-ge-buba-president-nagel-speaks
@@ -1023,7 +1023,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149261
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ CA Current Account
 DESCRIPTION:Impact: Low\n\nForecast: 9.6B\n\nPrevious: 8.8B\n\nView Event: 
  https://www.forexfactory.com/calendar/196-ca-current-account
@@ -1037,7 +1037,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148213
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Goods Trade Balance
 DESCRIPTION:Impact: Low\n\nForecast: -134.4B\n\nPrevious: -134.9B\n\nView E
  vent: https://www.forexfactory.com/calendar/625-us-goods-trade-balance
@@ -1051,7 +1051,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148225
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261122T214215Z
 SUMMARY:⁎ US Prelim Wholesale Inventories m/m
 DESCRIPTION:Impact: Low\n\nForecast: 0.7%\n\nPrevious: 0.6%\n\nView Event: 
  https://www.forexfactory.com/calendar/642-us-prelim-wholesale-inventories-
