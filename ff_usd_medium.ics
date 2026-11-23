@@ -27,7 +27,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:149772
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261123T234218Z
 SUMMARY:⁑ US Flash Manufacturing PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 54.5\n\nPrevious: 56.0\n\nXAUUSD: a
  ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149784
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261123T234218Z
 SUMMARY:⁑ US Flash Services PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 55.6\n\nPrevious: 57.9\n\nXAUUSD: a
  ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
@@ -59,9 +59,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:146888
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261123T234218Z
 SUMMARY:⁑ US CB Consumer Confidence
-DESCRIPTION:Impact: Medium\n\nForecast: 92.1\n\nPrevious: 91.7\n\nXAUUSD: a
+DESCRIPTION:Impact: Medium\n\nForecast: 92.4\n\nPrevious: 91.7\n\nXAUUSD: a
  ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
  -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
  alendar/208-us-cb-consumer-confidence
@@ -75,29 +75,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:148300
-DTSTAMP:20261122T084218Z
+DTSTAMP:20261123T234218Z
 SUMMARY:⁑ US Prelim GDP Price Index q/q
 DESCRIPTION:Impact: Medium\n\nForecast: 2.3%\n\nPrevious: 2.3%\n\nXAUUSD: a
  ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
  -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
  alendar/45-us-prelim-gdp-price-index-qq
 URL:https://www.forexfactory.com/calendar/45-us-prelim-gdp-price-index-qq
-DTSTART;TZID=America/New_York:20261125T083000
-DTEND;TZID=America/New_York:20261125T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:147025
-DTSTAMP:20261122T084218Z
-SUMMARY:⁑ US Unemployment Claims
-DESCRIPTION:Impact: Medium\n\nForecast: 201K\n\nPrevious: 203K\n\nXAUUSD: a
- ctual BELOW forecast -> USD stronger, gold bearish. Actual ABOVE forecast 
- -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
- alendar/11-us-unemployment-claims
-URL:https://www.forexfactory.com/calendar/11-us-unemployment-claims
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T083000
 BEGIN:VALARM
