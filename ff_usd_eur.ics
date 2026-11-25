@@ -27,7 +27,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:149772
-DTSTAMP:20261124T184215Z
+DTSTAMP:20261125T204218Z
 SUMMARY:⁑ US Flash Manufacturing PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 54.5\n\nPrevious: 56.0\n\nXAUUSD: a
  ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:149784
-DTSTAMP:20261124T184215Z
+DTSTAMP:20261125T204218Z
 SUMMARY:⁑ US Flash Services PMI
 DESCRIPTION:Impact: Medium\n\nForecast: 55.6\n\nPrevious: 57.9\n\nXAUUSD: a
  ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:146888
-DTSTAMP:20261124T184215Z
+DTSTAMP:20261125T204218Z
 SUMMARY:⁑ US CB Consumer Confidence | gold bearish
 DESCRIPTION:Impact: Medium\n\nActual: 103.3\n\nForecast: 92.4\n\nPrevious: 
  91.7\n\nRESULT: actual 103.3 above forecast 92.4 -> good for USD -> XAUUSD
@@ -76,12 +76,12 @@ SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:148237
-DTSTAMP:20261124T184215Z
-SUMMARY:⁂ US Core PCE Price Index m/m
-DESCRIPTION:Impact: High\n\nForecast: 0.3%\n\nPrevious: 0.3%\n\nXAUUSD: act
- ual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast ->
-  USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/cal
- endar/85-us-core-pce-price-index-mm
+DTSTAMP:20261125T204218Z
+SUMMARY:⁂ US Core PCE Price Index m/m | in line
+DESCRIPTION:Impact: High\n\nActual: 0.3%\n\nForecast: 0.3%\n\nPrevious: 0.3
+ %\n\nRESULT: actual 0.3% = forecast 0.3%, in line. XAUUSD: little reaction
+  expected (neutral).\n\nView Event: https://www.forexfactory.com/calendar/
+ 85-us-core-pce-price-index-mm\n\nActual from biquote.io
 URL:https://www.forexfactory.com/calendar/85-us-core-pce-price-index-mm
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T083000
@@ -89,15 +89,16 @@ BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:148292
-DTSTAMP:20261124T184215Z
-SUMMARY:⁂ US Prelim GDP q/q
-DESCRIPTION:Impact: High\n\nForecast: 3.5%\n\nPrevious: 3.4%\n\nXAUUSD: act
- ual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast ->
-  USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/cal
- endar/27-us-prelim-gdp-qq
+DTSTAMP:20261125T204218Z
+SUMMARY:⁂ US Prelim GDP q/q | gold bearish
+DESCRIPTION:Impact: High\n\nActual: 4.3%\n\nForecast: 3.5%\n\nPrevious: 3.4
+ %\n\nRESULT: actual 4.3% above forecast 3.5% -> good for USD -> XAUUSD BEA
+ RISH.\n\nView Event: https://www.forexfactory.com/calendar/27-us-prelim-gd
+ p-qq\n\nActual from biquote.io
 URL:https://www.forexfactory.com/calendar/27-us-prelim-gdp-qq
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T083000
@@ -105,15 +106,16 @@ BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:148300
-DTSTAMP:20261124T184215Z
-SUMMARY:⁑ US Prelim GDP Price Index q/q
-DESCRIPTION:Impact: Medium\n\nForecast: 2.3%\n\nPrevious: 2.3%\n\nXAUUSD: a
- ctual ABOVE forecast -> USD stronger, gold bearish. Actual BELOW forecast 
- -> USD weaker, gold bullish.\n\nView Event: https://www.forexfactory.com/c
- alendar/45-us-prelim-gdp-price-index-qq
+DTSTAMP:20261125T204218Z
+SUMMARY:⁑ US Prelim GDP Price Index q/q | gold bullish
+DESCRIPTION:Impact: Medium\n\nActual: 1.9%\n\nForecast: 2.3%\n\nPrevious: 2
+ .3%\n\nRESULT: actual 1.9% below forecast 2.3% -> bad for USD -> XAUUSD BU
+ LLISH.\n\nView Event: https://www.forexfactory.com/calendar/45-us-prelim-g
+ dp-price-index-qq\n\nActual from biquote.io
 URL:https://www.forexfactory.com/calendar/45-us-prelim-gdp-price-index-qq
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T083000
@@ -121,5 +123,6 @@ BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
 END:VALARM
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR
