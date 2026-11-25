@@ -1,0 +1,9 @@
+name = "ff-news-calendar"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+workers_dev = true
+
+# Last good copy of the Forex Factory feed (it rate-limits hard).
+[[kv_namespaces]]
+binding = "FF"
+id = "54860e61f7714e89841089ab35a027eb"
